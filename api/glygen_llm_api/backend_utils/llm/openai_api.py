@@ -36,6 +36,7 @@ class OpenAILLM(LLM):
                 response = self.instance.chat.completions.create(
                     model="gpt-4o-mini",
                     messages=messages,
+                    store=False, # Set to False to prevent storage
                     max_tokens=self._max_tokens,
                 )
 

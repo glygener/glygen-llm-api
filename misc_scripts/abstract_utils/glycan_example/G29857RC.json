@@ -1,0 +1,5598 @@
+{
+    "glytoucan": {
+        "glytoucan_ac": "G29857RC",
+        "glytoucan_url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+    },
+    "mass": 2005.72,
+    "number_monosaccharides": 11,
+    "iupac": "beta-D-Galp-(1->4)-beta-D-GlcpNAc-(1->2)[beta-D-Galp-(1->4)-beta-D-GlcpNAc-(1->4)]-alpha-D-Manp-(1->3)[beta-D-Galp-(1->4)-beta-D-GlcpNAc-(1->2)-alpha-D-Manp-(1->6)]-beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-beta-D-GlcpNAc-(1->",
+    "wurcs": "WURCS=2.0/4,11,10/[a2122h-1b_1-5_2*NCC/3=O][a1122h-1b_1-5][a1122h-1a_1-5][a2112h-1b_1-5]/1-1-2-3-1-4-1-4-3-1-4/a4-b1_b4-c1_c3-d1_c6-i1_d2-e1_d4-g1_e4-f1_g4-h1_i2-j1_j4-k1",
+    "glycoct": "RES 1b:b-dglc-HEX-1:5 2s:n-acetyl 3b:b-dglc-HEX-1:5 4s:n-acetyl 5b:b-dman-HEX-1:5 6b:a-dman-HEX-1:5 7b:b-dglc-HEX-1:5 8s:n-acetyl 9b:b-dgal-HEX-1:5 10b:b-dglc-HEX-1:5 11s:n-acetyl 12b:b-dgal-HEX-1:5 13b:a-dman-HEX-1:5 14b:b-dglc-HEX-1:5 15s:n-acetyl 16b:b-dgal-HEX-1:5 LIN 1:1d(2+1)2n 2:1o(4+1)3d 3:3d(2+1)4n 4:3o(4+1)5d 5:5o(3+1)6d 6:6o(2+1)7d 7:7d(2+1)8n 8:7o(4+1)9d 9:6o(4+1)10d 10:10d(2+1)11n 11:10o(4+1)12d 12:5o(6+1)13d 13:13o(2+1)14d 14:14d(2+1)15n 15:14o(4+1)16d",
+    "species": [
+        {
+            "taxid": 9913,
+            "name": "Bos taurus",
+            "annotation_category": "direct",
+            "evidence": [
+                {
+                    "database": "GlyConnect",
+                    "id": "3539",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "database": "GlyCosmos",
+                    "id": "G29857RC",
+                    "url": "https://glycosmos.org/glycans/show/G29857RC"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1691598",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7513972",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7690196",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                }
+            ],
+            "common_name": "Bovine",
+            "glygen_name": "Bovine",
+            "reference_species": "Bos taurus [9913]"
+        },
+        {
+            "taxid": 9031,
+            "name": "Gallus gallus",
+            "annotation_category": "direct",
+            "evidence": [
+                {
+                    "database": "GlyCosmos",
+                    "id": "G29857RC",
+                    "url": "https://glycosmos.org/glycans/show/G29857RC"
+                }
+            ],
+            "common_name": "Chicken",
+            "glygen_name": "Chicken",
+            "reference_species": "Gallus gallus [9031]"
+        },
+        {
+            "taxid": 9606,
+            "name": "Homo sapiens",
+            "annotation_category": "direct",
+            "evidence": [
+                {
+                    "database": "GlyConnect",
+                    "id": "3539",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "database": "GlyCosmos",
+                    "id": "G29857RC",
+                    "url": "https://glycosmos.org/glycans/show/G29857RC"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10211705",
+                    "url": "https://glygen.org/publication/PubMed/10211705"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10764830",
+                    "url": "https://glygen.org/publication/PubMed/10764830"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10764840",
+                    "url": "https://glygen.org/publication/PubMed/10764840"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10918037",
+                    "url": "https://glygen.org/publication/PubMed/10918037"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "11180632",
+                    "url": "https://glygen.org/publication/PubMed/11180632"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "11805077",
+                    "url": "https://glygen.org/publication/PubMed/11805077"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1374031",
+                    "url": "https://glygen.org/publication/PubMed/1374031"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "15316280",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1577715",
+                    "url": "https://glygen.org/publication/PubMed/1577715"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1637829",
+                    "url": "https://glygen.org/publication/PubMed/1637829"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1967025",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1991473",
+                    "url": "https://glygen.org/publication/PubMed/1991473"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2059624",
+                    "url": "https://glygen.org/publication/PubMed/2059624"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2110822",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2297756",
+                    "url": "https://glygen.org/publication/PubMed/2297756"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2550193",
+                    "url": "https://glygen.org/publication/PubMed/2550193"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "3346214",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "468798",
+                    "url": "https://glygen.org/publication/PubMed/468798"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "6643471",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "728395",
+                    "url": "https://glygen.org/publication/PubMed/728395"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7380009",
+                    "url": "https://glygen.org/publication/PubMed/7380009"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7620335",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7679920",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8026573",
+                    "url": "https://glygen.org/publication/PubMed/8026573"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8344278",
+                    "url": "https://glygen.org/publication/PubMed/8344278"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8460945",
+                    "url": "https://glygen.org/publication/PubMed/8460945"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8477709",
+                    "url": "https://glygen.org/publication/PubMed/8477709"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8981093",
+                    "url": "https://glygen.org/publication/PubMed/8981093"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "9555945",
+                    "url": "https://glygen.org/publication/PubMed/9555945"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000341",
+                    "url": "http://data.glygen.org/GLY_000341"
+                }
+            ],
+            "common_name": "Human",
+            "glygen_name": "Human",
+            "reference_species": "Homo sapiens [9606]"
+        },
+        {
+            "taxid": 10090,
+            "name": "Mus musculus",
+            "annotation_category": "direct",
+            "evidence": [
+                {
+                    "database": "GlyConnect",
+                    "id": "3539",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10406848",
+                    "url": "https://glygen.org/publication/PubMed/10406848"
+                }
+            ],
+            "common_name": "Mouse",
+            "glygen_name": "Mouse",
+            "reference_species": "Mus musculus [10090]"
+        },
+        {
+            "taxid": 10116,
+            "name": "Rattus norvegicus",
+            "annotation_category": "direct",
+            "evidence": [
+                {
+                    "database": "GlyConnect",
+                    "id": "3539",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2353825",
+                    "url": "https://glygen.org/publication/PubMed/2353825"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8612632",
+                    "url": "https://glygen.org/publication/PubMed/8612632"
+                }
+            ],
+            "common_name": "Rat",
+            "glygen_name": "Rat",
+            "reference_species": "Rattus norvegicus [10116]"
+        }
+    ],
+    "classification": [
+        {
+            "type": {
+                "name": "N-linked"
+            },
+            "subtype": {
+                "name": "Complex"
+            }
+        },
+        {
+            "type": {
+                "name": "N-linked"
+            },
+            "subtype": {
+                "name": "Triantennary"
+            }
+        }
+    ],
+    "glycoprotein": [
+        {
+            "uniprot_canonical_ac": "P07602-1",
+            "start_pos": 215,
+            "end_pos": 215,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "11180632",
+                    "url": "https://glygen.org/publication/PubMed/11180632"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8344278",
+                    "url": "https://glygen.org/publication/PubMed/8344278"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2110822",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                }
+            ],
+            "protein_name": "Prosaposin",
+            "gene_name": "PSAP",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P0DN86-1",
+            "start_pos": 50,
+            "end_pos": 50,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "468798",
+                    "url": "https://glygen.org/publication/PubMed/468798"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1374031",
+                    "url": "https://glygen.org/publication/PubMed/1374031"
+                }
+            ],
+            "protein_name": "Choriogonadotropin subunit beta 3",
+            "gene_name": "CGB3",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P00742-1",
+            "start_pos": 221,
+            "end_pos": 221,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "7620335",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "102",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/102"
+                }
+            ],
+            "protein_name": "Coagulation factor X",
+            "gene_name": "F10",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01588-1",
+            "start_pos": 110,
+            "end_pos": 110,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10764840",
+                    "url": "https://glygen.org/publication/PubMed/10764840"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8460945",
+                    "url": "https://glygen.org/publication/PubMed/8460945"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2550193",
+                    "url": "https://glygen.org/publication/PubMed/2550193"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8477709",
+                    "url": "https://glygen.org/publication/PubMed/8477709"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "11805077",
+                    "url": "https://glygen.org/publication/PubMed/11805077"
+                }
+            ],
+            "protein_name": "Erythropoietin",
+            "gene_name": "EPO",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01588-1",
+            "start_pos": 51,
+            "end_pos": 51,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10764840",
+                    "url": "https://glygen.org/publication/PubMed/10764840"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8460945",
+                    "url": "https://glygen.org/publication/PubMed/8460945"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2550193",
+                    "url": "https://glygen.org/publication/PubMed/2550193"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8477709",
+                    "url": "https://glygen.org/publication/PubMed/8477709"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "11805077",
+                    "url": "https://glygen.org/publication/PubMed/11805077"
+                }
+            ],
+            "protein_name": "Erythropoietin",
+            "gene_name": "EPO",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P0DN86-1",
+            "start_pos": 33,
+            "end_pos": 33,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1374031",
+                    "url": "https://glygen.org/publication/PubMed/1374031"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "468798",
+                    "url": "https://glygen.org/publication/PubMed/468798"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                }
+            ],
+            "protein_name": "Choriogonadotropin subunit beta 3",
+            "gene_name": "CGB3",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01588-1",
+            "start_pos": 65,
+            "end_pos": 65,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "11805077",
+                    "url": "https://glygen.org/publication/PubMed/11805077"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8477709",
+                    "url": "https://glygen.org/publication/PubMed/8477709"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2550193",
+                    "url": "https://glygen.org/publication/PubMed/2550193"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8460945",
+                    "url": "https://glygen.org/publication/PubMed/8460945"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "10764840",
+                    "url": "https://glygen.org/publication/PubMed/10764840"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                }
+            ],
+            "protein_name": "Erythropoietin",
+            "gene_name": "EPO",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P00742-1",
+            "start_pos": 231,
+            "end_pos": 231,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "7620335",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "102",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/102"
+                }
+            ],
+            "protein_name": "Coagulation factor X",
+            "gene_name": "F10",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01215-1",
+            "start_pos": 102,
+            "end_pos": 102,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "8026573",
+                    "url": "https://glygen.org/publication/PubMed/8026573"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1991473",
+                    "url": "https://glygen.org/publication/PubMed/1991473"
+                }
+            ],
+            "protein_name": "Glycoprotein hormones alpha chain",
+            "gene_name": "CGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "start_pos": 177,
+            "end_pos": 177,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "start_pos": 359,
+            "end_pos": 359,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "start_pos": 385,
+            "end_pos": 385,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "start_pos": 124,
+            "end_pos": 124,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "start_pos": 201,
+            "end_pos": 201,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01215-1",
+            "start_pos": 76,
+            "end_pos": 76,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                },
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1991473",
+                    "url": "https://glygen.org/publication/PubMed/1991473"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8026573",
+                    "url": "https://glygen.org/publication/PubMed/8026573"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                }
+            ],
+            "protein_name": "Glycoprotein hormones alpha chain",
+            "gene_name": "CGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P12763-1",
+            "start_pos": 156,
+            "end_pos": 156,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1691598",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7690196",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7513972",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "protein_name": "Alpha-2-HS-glycoprotein",
+            "gene_name": "AHSG",
+            "tax_id": 9913,
+            "tax_name": "Bos taurus",
+            "tax_common_name": "Bovine"
+        },
+        {
+            "uniprot_canonical_ac": "P12763-1",
+            "start_pos": 176,
+            "end_pos": 176,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1691598",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7690196",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7513972",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "protein_name": "Alpha-2-HS-glycoprotein",
+            "gene_name": "AHSG",
+            "tax_id": 9913,
+            "tax_name": "Bos taurus",
+            "tax_common_name": "Bovine"
+        },
+        {
+            "uniprot_canonical_ac": "P12763-1",
+            "start_pos": 99,
+            "end_pos": 99,
+            "residue": "Asn",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1691598",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7690196",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7513972",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "protein_name": "Alpha-2-HS-glycoprotein",
+            "gene_name": "AHSG",
+            "tax_id": 9913,
+            "tax_name": "Bos taurus",
+            "tax_common_name": "Bovine"
+        },
+        {
+            "uniprot_canonical_ac": "P00797-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1637829",
+                    "url": "https://glygen.org/publication/PubMed/1637829"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "513",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/513"
+                }
+            ],
+            "protein_name": "Renin",
+            "gene_name": "REN",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P04180-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "9555945",
+                    "url": "https://glygen.org/publication/PubMed/9555945"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "495",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/495"
+                }
+            ],
+            "protein_name": "Phosphatidylcholine-sterol acyltransferase",
+            "gene_name": "LCAT",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P07602-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "2110822",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "1645",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/1645"
+                }
+            ],
+            "protein_name": "Prosaposin",
+            "gene_name": "PSAP",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01588-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "140",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/140"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "3346214",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "8981093",
+                    "url": "https://glygen.org/publication/PubMed/8981093"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                }
+            ],
+            "protein_name": "Erythropoietin",
+            "gene_name": "EPO",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01215-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "194",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/194"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1967025",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "88",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/88"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "15316280",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "6643471",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ],
+            "protein_name": "Glycoprotein hormones alpha chain",
+            "gene_name": "CGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P0DN86-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "91",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/91"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "1967025",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "88",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/88"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "15316280",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "6643471",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ],
+            "protein_name": "Choriogonadotropin subunit beta 3",
+            "gene_name": "CGB3",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P00747-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "2059624",
+                    "url": "https://glygen.org/publication/PubMed/2059624"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "502",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/502"
+                }
+            ],
+            "protein_name": "Plasminogen",
+            "gene_name": "PLG",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P09923-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "2297756",
+                    "url": "https://glygen.org/publication/PubMed/2297756"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "11",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/11"
+                }
+            ],
+            "protein_name": "Intestinal-type alkaline phosphatase",
+            "gene_name": "ALPI",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P04275-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "1577715",
+                    "url": "https://glygen.org/publication/PubMed/1577715"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "627",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/627"
+                }
+            ],
+            "protein_name": "von Willebrand factor",
+            "gene_name": "VWF",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P19652-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "728395",
+                    "url": "https://glygen.org/publication/PubMed/728395"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "14",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/14"
+                },
+                {
+                    "database": "PubMed",
+                    "id": "7380009",
+                    "url": "https://glygen.org/publication/PubMed/7380009"
+                }
+            ],
+            "protein_name": "Alpha-1-acid glycoprotein 2",
+            "gene_name": "ORM2",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P17050-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "45",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/45"
+                }
+            ],
+            "protein_name": "Alpha-N-acetylgalactosaminidase",
+            "gene_name": "NAGA",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P02771-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "7679920",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "41",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/41"
+                }
+            ],
+            "protein_name": "Alpha-fetoprotein",
+            "gene_name": "AFP",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P14151-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10918037",
+                    "url": "https://glygen.org/publication/PubMed/10918037"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "346",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/346"
+                }
+            ],
+            "protein_name": "L-selectin",
+            "gene_name": "SELL",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01579-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10764830",
+                    "url": "https://glygen.org/publication/PubMed/10764830"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "287",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/287"
+                }
+            ],
+            "protein_name": "Interferon gamma",
+            "gene_name": "IFNG",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "P01876-2",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10211705",
+                    "url": "https://glygen.org/publication/PubMed/10211705"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "230",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/230"
+                }
+            ],
+            "protein_name": "Immunoglobulin heavy constant alpha 1",
+            "gene_name": "IGHA1",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human"
+        },
+        {
+            "uniprot_canonical_ac": "Q8BYI9-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "10406848",
+                    "url": "https://glygen.org/publication/PubMed/10406848"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "590",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/590"
+                }
+            ],
+            "protein_name": "Tenascin-R",
+            "gene_name": "Tnr",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse"
+        },
+        {
+            "uniprot_canonical_ac": "P08289-1",
+            "evidence": [
+                {
+                    "database": "PubMed",
+                    "id": "8612632",
+                    "url": "https://glygen.org/publication/PubMed/8612632"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "12",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/12"
+                }
+            ],
+            "protein_name": "Alkaline phosphatase, tissue-nonspecific isozyme",
+            "gene_name": "Alpl",
+            "tax_id": 10116,
+            "tax_name": "Rattus norvegicus",
+            "tax_common_name": "Rat"
+        }
+    ],
+    "enzyme": [
+        {
+            "uniprot_canonical_ac": "P42867-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase",
+            "gene": "Dpagt1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/P42867",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9H3H5-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase",
+            "gene": "DPAGT1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9H3H5",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q8BML3-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine transferase subunit ALG13",
+            "gene": "Glt28d2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q8BML3",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q96F25-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine transferase subunit ALG14",
+            "gene": "ALG14",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q96F25",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9D081-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine transferase subunit ALG14",
+            "gene": "Alg14",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9D081",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9D8C3-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine transferase subunit ALG13",
+            "gene": "Alg13",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9D8C3",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9NP73-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "UDP-N-acetylglucosamine transferase subunit ALG13",
+            "gene": "ALG13",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9NP73",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q921Q3-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Chitobiosyldiphosphodolichol beta-mannosyltransferase",
+            "gene": "Alg1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q921Q3",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9BT22-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Chitobiosyldiphosphodolichol beta-mannosyltransferase",
+            "gene": "ALG1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9BT22",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9DBE8-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3/1,6-mannosyltransferase ALG2",
+            "gene": "Alg2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9DBE8",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9H553-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3/1,6-mannosyltransferase ALG2",
+            "gene": "ALG2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9H553",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "P26572-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",
+            "gene": "MGAT1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/P26572",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "P27808-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",
+            "gene": "Mgat1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/P27808",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "O60512-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 3",
+            "gene": "B4GALT3",
+            "gene_link": "https://www.uniprot.org/uniprotkb/O60512",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "O60909-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 2",
+            "gene": "B4GALT2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/O60909",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "P15291-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 1",
+            "gene": "B4GALT1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/P15291",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "P15535-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 1",
+            "gene": "B4galt1",
+            "gene_link": "https://www.uniprot.org/uniprotkb/P15535",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q91YY2-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 3",
+            "gene": "B4galt3",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q91YY2",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9Z2Y2-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Beta-1,4-galactosyltransferase 2",
+            "gene": "B4galt2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9Z2Y2",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q10469-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",
+            "gene": "MGAT2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q10469",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q921V5-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",
+            "gene": "Mgat2",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q921V5",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q812F8-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B",
+            "gene": "Mgat4b",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q812F8",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q812G0-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A",
+            "gene": "Mgat4a",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q812G0",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9D306-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase C",
+            "gene": "Mgat4c",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9D306",
+            "tax_id": 10090,
+            "tax_name": "Mus musculus",
+            "tax_common_name": "Mouse",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9UBM8-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase C",
+            "gene": "MGAT4C",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9UBM8",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9UM21-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A",
+            "gene": "MGAT4A",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9UM21",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9UQ53-1",
+            "xref_key": "glycan_xref_sandbox",
+            "xref_id": "G29857RC",
+            "protein_name": "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B",
+            "gene": "MGAT4B",
+            "gene_link": "https://www.uniprot.org/uniprotkb/Q9UQ53",
+            "tax_id": 9606,
+            "tax_name": "Homo sapiens",
+            "tax_common_name": "Human",
+            "evidence": [
+                {
+                    "id": "G29857RC",
+                    "database": "SandBox",
+                    "url": "https://sandbox.glyomics.org/explore.html?G29857RC"
+                }
+            ]
+        }
+    ],
+    "crossref": [
+        {
+            "id": "10606585",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/10606585",
+            "database": "PubChem Compound",
+            "categories": [
+                "Chemical"
+            ]
+        },
+        {
+            "id": "252294128",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/substance/252294128",
+            "database": "PubChem Substance",
+            "categories": [
+                "Chemical"
+            ]
+        },
+        {
+            "id": "1665",
+            "database": "UniCarbKB",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "G10703",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?gl:G10703",
+            "database": "KEGG Glycan",
+            "categories": [
+                "Enzyme and Pathway"
+            ]
+        },
+        {
+            "id": "G12104",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?gl:G12104",
+            "database": "KEGG Glycan",
+            "categories": [
+                "Enzyme and Pathway"
+            ]
+        },
+        {
+            "id": "1193",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "1623",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "16943",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "17370",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "17371",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "21472",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "21474",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "235",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "2985",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "3426",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "4231",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "4262",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "4346",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "4948",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "5728",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "6067",
+            "database": "Glycosciences.de",
+            "categories": [
+                "Discontinued"
+            ]
+        },
+        {
+            "id": "3539",
+            "url": "https://glyconnect.expasy.org/browser/structures/3539",
+            "database": "GlyConnect",
+            "categories": [
+                "Glycoproteomics",
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "12787",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+12787",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "13313",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+13313",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "14087",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+14087",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "14708",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+14708",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "17678",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+17678",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "1863",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+1863",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "1864",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+1864",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "1865",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+1865",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "1866",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+1866",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "18836",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+18836",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "20302",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+20302",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "20884",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+20884",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "21630",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+21630",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "25180",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+25180",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "25599",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+25599",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "25617",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+25617",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "25747",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+25747",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "26843",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+26843",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "28317",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+28317",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "28346",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+28346",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "2905",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+2905",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "2907",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+2907",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "29220",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+29220",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "31876",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+31876",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "31877",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+31877",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "34647",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+34647",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "36255",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+36255",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "36277",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+36277",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "36429",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+36429",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "36557",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+36557",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "37411",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+37411",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "41532",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+41532",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "42027",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+42027",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "42819",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+42819",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "4416",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+4416",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "4417",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+4417",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "4424",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+4424",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "4629",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+4629",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "47187",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+47187",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "5093",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+5093",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "5094",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+5094",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "5886",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+5886",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7188",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7188",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7476",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7476",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7788",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7788",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7789",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7789",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7790",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7790",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7791",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7791",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7923",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7923",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7960",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7960",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "7991",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+7991",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "8069",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+8069",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "9122",
+            "url": "https://www.genome.jp/dbget-bin/www_bget?carbbank+9122",
+            "database": "CarbBank",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "148812",
+            "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=148812",
+            "database": "ChEBI"
+        },
+        {
+            "id": "G29857RC",
+            "url": "https://glytoucan.org/Structures/Glycans/G29857RC",
+            "database": "GlyTouCan",
+            "categories": [
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "G29857RC",
+            "url": "https://sandbox.glyomics.org/explore.html?G29857RC",
+            "database": "SandBox",
+            "categories": [
+                "Enzyme and Pathway"
+            ]
+        },
+        {
+            "id": "G29857RC",
+            "url": "https://gnome.glyomics.org/restrictions/GlyGen.StructureBrowser.html?focus=G29857RC",
+            "database": "GNOme",
+            "categories": [
+                "Ontology and Dictionary",
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "G29857RC",
+            "url": "https://glycosmos.org/glycans/show/G29857RC",
+            "database": "GlyCosmos",
+            "categories": [
+                "Glycoproteomics",
+                "Glycomics"
+            ]
+        },
+        {
+            "id": "6893371GAR",
+            "url": "https://glygen.ccrc.uga.edu/ggarray/glycanDetail/6893371GAR",
+            "database": "Glycan Array Data Repository"
+        }
+    ],
+    "mass_pme": 2496.27,
+    "tool_support": {
+        "gnome_glygen_oglycans": "no",
+        "sandbox": "yes",
+        "gnome_glygen": "yes",
+        "gnome": "yes",
+        "gnome_glycotree_oglycans": "no",
+        "pdb": "yes",
+        "gnome_glygen_nglycans": "yes",
+        "gnome_glycotree_nglycans": "yes"
+    },
+    "fully_determined": "yes",
+    "missing_score": 0,
+    "glycan_type": "Saccharide",
+    "iupac_compact": "Galb1-4GlcNAcb1-2(Galb1-4GlcNAcb1-4)Mana1-3(Galb1-4GlcNAcb1-2Mana1-6)Manb1-4GlcNAcb1-4GlcNAcb",
+    "iupac_condensed": "Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc(b1-",
+    "inchi": "InChI=1S/C76H127N5O56/c1-17(92)77-33-43(102)57(26(10-86)118-66(33)116)129-67-34(78-18(2)93)45(104)61(30(14-90)123-67)134-74-56(115)63(42(101)32(128-74)16-117-75-64(51(110)41(100)25(9-85)122-75)136-69-36(80-20(4)95)46(105)59(28(12-88)125-69)132-72-53(112)49(108)39(98)23(7-83)120-72)135-76-65(137-70-37(81-21(5)96)47(106)60(29(13-89)126-70)133-73-54(113)50(109)40(99)24(8-84)121-73)55(114)62(31(15-91)127-76)130-68-35(79-19(3)94)44(103)58(27(11-87)124-68)131-71-52(111)48(107)38(97)22(6-82)119-71/h22-76,82-91,97-116H,6-16H2,1-5H3,(H,77,92)(H,78,93)(H,79,94)(H,80,95)(H,81,96)/t22-,23-,24-,25-,26-,27-,28-,29-,30-,31-,32-,33-,34-,35-,36-,37-,38+,39+,40+,41-,42-,43-,44-,45-,46-,47-,48+,49+,50+,51+,52-,53-,54-,55+,56+,57-,58-,59-,60-,61-,62-,63+,64+,65+,66-,67+,68+,69+,70+,71+,72+,73+,74+,75+,76-/m1/s1",
+    "glycam": "DGalpb1-4DGlcpNAcb1-2[DGalpb1-4DGlcpNAcb1-4]DManpa1-3[DGalpb1-4DGlcpNAcb1-2DManpa1-6]DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH",
+    "smiles_isomeric": "CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)CO[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O)O)O)O)NC(=O)C)O)O[C@@H]7[C@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O[C@H]9[C@@H]([C@H]([C@H]([C@H](O9)CO)O)O)O)O)NC(=O)C)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O)O)NC(=O)C)O)O)NC(=O)C)O",
+    "inchi_key": {
+        "key": "XAFIAPGOCMHZAN-LODZLARESA-N",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/XAFIAPGOCMHZAN-LODZLARESA-N"
+    },
+    "byonic": "HexNAc(5)Hex(6) % 2005.72436872",
+    "gwb": "freeEnd--1b1D-GlcNAc,p--4b1D-GlcNAc,p--4b1D-Man,p(--3a1D-Man,p(--2b1D-GlcNAc,p--4b1D-Gal,p)--4b1D-GlcNAc,p--4b1D-Gal,p)--6a1D-Man,p--2b1D-GlcNAc,p--4b1D-Gal,p$MONO,Und,0,0,freeEnd",
+    "publication": [
+        {
+            "title": "Structure of the asparagine-linked sugar chains of porcine kidney and human urine cerebroside sulfate activator protein.",
+            "journal": "Journal of mass spectrometry : JMS",
+            "date": "2000",
+            "authors": "Faull KF, Johnson J, Kim MJ, To T, Whitelegge JP, Stevens RL, Fluharty CB, Fluharty AL",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "11180632",
+                    "url": "https://glygen.org/publication/PubMed/11180632"
+                }
+            ]
+        },
+        {
+            "title": "Carbohydrate and peptide structure of the alpha- and beta-subunits of human chorionic gonadotropin from normal and aberrant pregnancy and choriocarcinoma.",
+            "journal": "Endocrine",
+            "date": "1997",
+            "authors": "Elliott MM, Kardana A, Lustbader JW, Cole LA",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "194",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/194"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "91",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/91"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "9449027",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                }
+            ]
+        },
+        {
+            "title": "Identification of the oligosaccharide structures of human coagulation factor X activation peptide at each glycosylation site.",
+            "journal": "Glycoconjugate journal",
+            "date": "1995",
+            "authors": "Nakagawa H, Takahashi N, Fujikawa K, Kawamura Y, Iino M, Takeya H, Ogawa H, Suzuki K",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "102",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/102"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "7620335",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                }
+            ]
+        },
+        {
+            "title": "Comparative structural study of N-linked oligosaccharides of urinary and recombinant erythropoietins.",
+            "journal": "Biochemistry",
+            "date": "1988",
+            "authors": "Tsuda E, Goto M, Murakami A, Akai K, Ueda M, Kawanishi G, Takahashi N, Sasaki R, Chiba H, Ishihara H, et al.",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "140",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/140"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "3179269",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                }
+            ]
+        },
+        {
+            "title": "The carbohydrate chains of the beta subunit of human chorionic gonadotropin produced by the choriocarcinoma cell line BeWo. Novel O-linked and novel bisecting-GlcNAc-containing N-linked carbohydrates.",
+            "journal": "European journal of biochemistry",
+            "date": "1992",
+            "authors": "Hard K, Damm JB, Spruijt MP, Bergwerff AA, Kamerling JP, Van Dedem GW, Vliegenthart JF",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1374031",
+                    "url": "https://glygen.org/publication/PubMed/1374031"
+                }
+            ]
+        },
+        {
+            "title": "Structural analysis of sulfated N-linked oligosaccharides in erythropoietin.",
+            "journal": "Glycobiology",
+            "date": "2001",
+            "authors": "Kawasaki N, Haishima Y, Ohta M, Itoh S, Hyuga M, Hyuga S, Hayakawa T",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "11805077",
+                    "url": "https://glygen.org/publication/PubMed/11805077"
+                }
+            ]
+        },
+        {
+            "title": "Site-specific N-glycosylation of human chorionic gonadotrophin--structural analysis of glycopeptides by one- and two-dimensional 1H NMR spectroscopy.",
+            "journal": "Glycobiology",
+            "date": "1991",
+            "authors": "Weisshaar G, Hiyama J, Renwick AG",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1820200",
+                    "url": "https://glygen.org/publication/PubMed/1820200"
+                }
+            ]
+        },
+        {
+            "title": "Rapid and simple approach for the NMR resonance assignment of the carbohydrate chains of an intact glycoprotein. Application of gradient-enhanced natural abundance 1H-13C HSQC and HSQC-TOCSY to the alpha-subunit of human chorionic gonadotropin.",
+            "journal": "FEBS letters",
+            "date": "1994",
+            "authors": "de Beer T, van Zuylen CW, Hard K, Boelens R, Kaptein R, Kamerling JP, Vliegenthart JF",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8026573",
+                    "url": "https://glygen.org/publication/PubMed/8026573"
+                }
+            ]
+        },
+        {
+            "title": "Structures of sialylated oligosaccharides of human erythropoietin expressed in recombinant BHK-21 cells.",
+            "journal": "European journal of biochemistry",
+            "date": "1993",
+            "authors": "Nimtz M, Martin W, Wray V, Kloppel KD, Augustin J, Conradt HS",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8477709",
+                    "url": "https://glygen.org/publication/PubMed/8477709"
+                }
+            ]
+        },
+        {
+            "title": "Recombinant human erythropoietin produced by Namalwa cells.",
+            "journal": "DNA (Mary Ann Liebert, Inc.)",
+            "date": "1989",
+            "authors": "Yanagi H, Yoshima T, Ogawa I, Okamoto M",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2550193",
+                    "url": "https://glygen.org/publication/PubMed/2550193"
+                }
+            ]
+        },
+        {
+            "title": "Structures of mucin-type sugar chains on human erythropoietins purified from urine and the culture medium of recombinant Chinese hamster ovary cells.",
+            "journal": "Archives of biochemistry and biophysics",
+            "date": "1993",
+            "authors": "Inoue N, Takeuchi M, Asano K, Shimizu R, Takasaki S, Kobata A",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8460945",
+                    "url": "https://glygen.org/publication/PubMed/8460945"
+                }
+            ]
+        },
+        {
+            "title": "Unusual N-glycosylation of a recombinant human erythropoietin expressed in a human lymphoblastoid cell line does not alter its biological properties.",
+            "journal": "Glycobiology",
+            "date": "2000",
+            "authors": "Cointe D, Beliard R, Jorieux S, Leroy Y, Glacet A, Verbert A, Bourel D, Chirat F",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10764840",
+                    "url": "https://glygen.org/publication/PubMed/10764840"
+                }
+            ]
+        },
+        {
+            "title": "Structure and location of the O-glycosidic carbohydrate units of human chorionic gonadotropin.",
+            "journal": "The Journal of biological chemistry",
+            "date": "1979",
+            "authors": "Kessler MJ, Mise T, Ghai RD, Bahl OP",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "468798",
+                    "url": "https://glygen.org/publication/PubMed/468798"
+                }
+            ]
+        },
+        {
+            "title": "NMR investigations of the N-linked oligosaccharides at individual glycosylation sites of human lutropin.",
+            "journal": "European journal of biochemistry",
+            "date": "1991",
+            "authors": "Weisshaar G, Hiyama J, Renwick AG, Nimtz M",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1991473",
+                    "url": "https://glygen.org/publication/PubMed/1991473"
+                }
+            ]
+        },
+        {
+            "title": "Human alpha-N-acetylgalactosaminidase: site occupancy and structure of N-linked oligosaccharides.",
+            "journal": "Glycobiology",
+            "date": "2000",
+            "authors": "Ohta M, Ohnishi T, Ioannou YA, Hodgson ME, Matsuura F, Desnick RJ",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "45",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/45"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10704524",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                }
+            ]
+        },
+        {
+            "title": "Relationship between sugar chain structure and biological activity of recombinant human erythropoietin produced in Chinese hamster ovary cells.",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "date": "1989",
+            "authors": "Takeuchi M, Inoue N, Strickland TW, Kubota M, Wada M, Shimizu R, Hoshi S, Kozutsumi H, Takasaki S, Kobata A",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "140",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/140"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2813359",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                }
+            ]
+        },
+        {
+            "title": "Structural study of the oligosaccharide moieties of sphingolipid activator proteins, saposins A, C and D obtained from the spleen of a Gaucher patient.",
+            "journal": "European journal of biochemistry",
+            "date": "1993",
+            "authors": "Ito K, Takahashi N, Takahashi A, Shimada I, Arata Y, O'Brien JS, Kishimoto Y",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8344278",
+                    "url": "https://glygen.org/publication/PubMed/8344278"
+                }
+            ]
+        },
+        {
+            "title": "Characteristics of asparagine-linked sugar chains of sphingolipid activator protein 1 purified from normal human liver and GM1 gangliosidosis (type 1) liver.",
+            "journal": "Biochemistry",
+            "date": "1990",
+            "authors": "Yamashita K, Inui K, Totani K, Kochibe N, Furukawa M, Okada S",
+            "evidence": [
+                {
+                    "database": "UniCarbKB",
+                    "id": "GLY_000040",
+                    "url": "http://data.glygen.org/GLY_000040"
+                },
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "1645",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/1645"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2110822",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                }
+            ]
+        },
+        {
+            "title": "Large-scale preparation and characterization of N-linked glycopeptides from bovine fetuin.",
+            "journal": "Analytical biochemistry",
+            "date": "1990-02-01",
+            "authors": "Rice K G, Rao N B, Lee Y C",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1691598",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                }
+            ]
+        },
+        {
+            "title": "Reducing-end modification of N-linked oligosaccharides with tyrosine.",
+            "journal": "Analytical biochemistry",
+            "date": "1994-02-01",
+            "authors": "Tamura T, Wadhwa M S, Rice K G",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "7513972",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ]
+        },
+        {
+            "title": "Identification, quantification, and characterization of glycopeptides in reversed-phase HPLC separations of glycoprotein proteolytic digests.",
+            "journal": "Analytical biochemistry",
+            "date": "1993-07",
+            "authors": "Rohrer J S, Cooper G A, Townsend R R",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "22",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/22"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "7690196",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                }
+            ]
+        },
+        {
+            "title": "Evidence for a site-specific fucosylation of N-linked oligosaccharide of immunoglobulin A1 from normal human serum.",
+            "journal": "Glycoconjugate journal",
+            "date": "1998",
+            "authors": "Tanaka A, Iwase H, Hiki Y, Kokubo T, Ishii-Karakasa I, Toma K, Kobayashi Y, Hotta K",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "230",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/230"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10211705",
+                    "url": "https://glygen.org/publication/PubMed/10211705"
+                }
+            ]
+        },
+        {
+            "title": "Remodeling of sugar chain structures of human interferon-gamma.",
+            "journal": "Glycobiology",
+            "date": "2000",
+            "authors": "Fukuta K, Abe R, Yokomatsu T, Kono N, Asanagi M, Omae F, Minowa MT, Takeuchi M, Makino T",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "287",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/287"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10764830",
+                    "url": "https://glygen.org/publication/PubMed/10764830"
+                }
+            ]
+        },
+        {
+            "title": "Carbohydrate structures of soluble human L-selectin recombinantly expressed in baby-hamster kidney cells.",
+            "journal": "Biotechnology and applied biochemistry",
+            "date": "2000",
+            "authors": "Gohlke M, Mach U, Nuck R, Zimmermann-Kordmann M, Grunow D, Fieger C, Volz B, Tauber R, Petri T, Debus N, Reutter W",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "346",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/346"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10918037",
+                    "url": "https://glygen.org/publication/PubMed/10918037"
+                }
+            ]
+        },
+        {
+            "title": "Abnormal biantennary sugar chains are expressed in human chorionic gonadotropin produced in the choriocarcinoma cell line, JEG-3.",
+            "journal": "Glycoconjugate journal",
+            "date": "2004",
+            "authors": "Takamatsu S, Katsumata T, Inoue N, Watanabe T, Fujibayashi Y, Takeuchi M",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "88",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/88"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "15316280",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                }
+            ]
+        },
+        {
+            "title": "Structures of the asparagine-linked oligosaccharide chains of human von Willebrand factor. Occurrence of blood group A, B, and H(O) structures.",
+            "journal": "The Journal of biological chemistry",
+            "date": "1992",
+            "authors": "Matsui T, Titani K, Mizuochi T",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "627",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/627"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1577715",
+                    "url": "https://glygen.org/publication/PubMed/1577715"
+                }
+            ]
+        },
+        {
+            "title": "Characterization of the oligosaccharide structures on recombinant human prorenin expressed in Chinese hamster ovary cells.",
+            "journal": "Biochemistry",
+            "date": "1992",
+            "authors": "Aeed PA, Guido DM, Mathews WR, Elhammer AP",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "513",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/513"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1637829",
+                    "url": "https://glygen.org/publication/PubMed/1637829"
+                }
+            ]
+        },
+        {
+            "title": "Altered glycosylation of human chorionic gonadotropin decreases its hormonal activity as determined by cyclic-adenosine 3',5'-monophosphate production in MA-10 cells.",
+            "journal": "Glycobiology",
+            "date": "1990",
+            "authors": "Amano J, Nishimura R, Sato S, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "88",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/88"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "1967025",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                }
+            ]
+        },
+        {
+            "title": "Asparagine-linked oligosaccharide processing in lepidopteran insect cells. Temporal dependence of the nature of the oligosaccharides assembled on asparagine-289 of recombinant human plasminogen produced in baculovirus vector infected Spodoptera frugiperda (IPLB-SF-21AE) cells.",
+            "journal": "Biochemistry",
+            "date": "1991",
+            "authors": "Davidson DJ, Castellino FJ",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "502",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/502"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2059624",
+                    "url": "https://glygen.org/publication/PubMed/2059624"
+                }
+            ]
+        },
+        {
+            "title": "Structures of the asparagine-linked oligosaccharides of an alkaline phosphatase, kasahara isozyme, purified from FL amnion cells.",
+            "journal": "Cancer research",
+            "date": "1990",
+            "authors": "Endo T, Higashino K, Hada T, Imanishi H, Muratani K, Kochibe N, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "11",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/11"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2297756",
+                    "url": "https://glygen.org/publication/PubMed/2297756"
+                }
+            ]
+        },
+        {
+            "title": "Comparative study of the asparagine-linked sugar chains of human erythropoietins purified from urine and the culture medium of recombinant Chinese hamster ovary cells.",
+            "journal": "The Journal of biological chemistry",
+            "date": "1988",
+            "authors": "Takeuchi M, Takasaki S, Miyazaki H, Kato T, Hoshi S, Kochibe N, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "140",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/140"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "3346214",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                }
+            ]
+        },
+        {
+            "title": "Structures of the asparagine-linked sugar chains of human chorionic gonadotropin produced in choriocarcinoma. Appearance of triantennary sugar chains and unique biantennary sugar chains.",
+            "journal": "The Journal of biological chemistry",
+            "date": "1983",
+            "authors": "Mizuochi T, Nishimura R, Derappe C, Taniguchi T, Hamamoto T, Mochizuki M, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "88",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/88"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "6643471",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ]
+        },
+        {
+            "title": "Determination of the primary structures of 16 asialo-carbohydrate units derived from human plasma alpha 1-acid glycoprotein by 360-MHZ 1H NMR spectroscopy and permethylation analysis.",
+            "journal": "Biochemistry",
+            "date": "1978",
+            "authors": "Fournet B, Montreuil J, Strecker G, Dorland L, Haverkamp J, Vliegenthart FG, Binette JP, Schmid K",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "14",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/14"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "728395",
+                    "url": "https://glygen.org/publication/PubMed/728395"
+                }
+            ]
+        },
+        {
+            "title": "The application of 500-MHz H-NMR spectroscopy for the structure elucidation of N-acetyllactosamine type asparagine-bound carbohydrate chains of glycoproteins.",
+            "journal": "FEBS letters",
+            "date": "1980",
+            "authors": "van Halbeek H, Dorland L, Vliegenthart JF, Schmid K, Montreuil J, Fournet B, Hull WE",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "14",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/14"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "7380009",
+                    "url": "https://glygen.org/publication/PubMed/7380009"
+                }
+            ]
+        },
+        {
+            "title": "Carbohydrate structures of human alpha-fetoprotein of patients with hepatocellular carcinoma: presence of fucosylated and non-fucosylated triantennary glycans.",
+            "journal": "British journal of cancer",
+            "date": "1993",
+            "authors": "Aoyagi Y, Suzuki Y, Igarashi K, Saitoh A, Oguro M, Yokota T, Mori S, Suda T, Isemura M, Asakura H",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "41",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/41"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "7679920",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                }
+            ]
+        },
+        {
+            "title": "Biological and physicochemical characterization of recombinant human erythropoietins fractionated by Mono Q column chromatography and their modification with sialyltransferase.",
+            "journal": "Glycoconjugate journal",
+            "date": "1996",
+            "authors": "Morimoto K, Tsuda E, Said AA, Uchida E, Hatakeyama S, Ueda M, Hayakawa T",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "140",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/140"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8981093",
+                    "url": "https://glygen.org/publication/PubMed/8981093"
+                }
+            ]
+        },
+        {
+            "title": "Characterization of recombinant human plasma lecithin: cholesterol acyltransferase (LCAT): N-linked carbohydrate structures and catalytic properties.",
+            "journal": "Journal of lipid research",
+            "date": "1998",
+            "authors": "Lacko AG, Reason AJ, Nuckolls C, Kudchodkar BJ, Nair MP, Sundarrajan G, Pritchard PH, Morris HR, Dell A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "495",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/495"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "9555945",
+                    "url": "https://glygen.org/publication/PubMed/9555945"
+                }
+            ]
+        },
+        {
+            "title": "Glycosylation of a CNS-specific extracellular matrix glycoprotein, tenascin-R, is dominated by O-linked sialylated glycans and `brain-type` neutral N-glycans.",
+            "journal": "Glycobiology",
+            "date": "1999",
+            "authors": "Zamze S, Harvey DJ, Pesheva P, Mattu TS, Schachner M, Dwek RA, Wing DR",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "590",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/590"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "10406848",
+                    "url": "https://glygen.org/publication/PubMed/10406848"
+                }
+            ]
+        },
+        {
+            "title": "Transfection with fragments of the adenovirus 12 gene induces tumorigenicity-associated alteration of N-linked sugar chains in rat cells.",
+            "journal": "Archives of biochemistry and biophysics",
+            "date": "1990",
+            "authors": "Hiraizumi S, Takasaki S, Shiroki K, Kochibe N, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "850",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/850"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "2353825",
+                    "url": "https://glygen.org/publication/PubMed/2353825"
+                }
+            ]
+        },
+        {
+            "title": "Comparative study of the sugar chains of alkaline phosphatases purified from rat liver and rat AH-130 hepatoma cells. Occurrence of fucosylated high-mannose-type and hybrid-type sugar chains.",
+            "journal": "European journal of biochemistry",
+            "date": "1996",
+            "authors": "Endo T, Fujiwara T, Ikehara Y, Kobata A",
+            "evidence": [
+                {
+                    "database": "GlyTouCan",
+                    "id": "G29857RC",
+                    "url": "https://glytoucan.org/Structures/Glycans/G29857RC"
+                },
+                {
+                    "database": "GlyConnect",
+                    "id": "12",
+                    "url": "https://glyconnect.expasy.org/browser/proteins/12"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "8612632",
+                    "url": "https://glygen.org/publication/PubMed/8612632"
+                }
+            ]
+        },
+        {
+            "title": "Unique Binding Specificities of Proteins toward Isomeric Asparagine-Linked Glycans.",
+            "journal": "Cell chemical biology",
+            "date": "2019",
+            "authors": "Gao C, Hanes MS, Byrd-Leotis LA, Wei M, Jia N, Kardish RJ, McKitrick TR, Steinhauer DA, Cummings RD",
+            "evidence": [
+                {
+                    "database": "Data Submission",
+                    "id": "GLY_000538",
+                    "url": "http://data.glygen.org/GLY_000538"
+                }
+            ],
+            "reference": [
+                {
+                    "type": "PubMed",
+                    "id": "30745240",
+                    "url": "https://glygen.org/publication/PubMed/30745240"
+                }
+            ]
+        }
+    ],
+    "residues": [
+        {
+            "id": "NA",
+            "name": "N-glycan_core_D-GlcNAc_A",
+            "attachedby": "rxn.P42867-1",
+            "parentid": "0"
+        },
+        {
+            "id": "NA",
+            "name": "N-glycan_core_D-GlcNAc_A",
+            "attachedby": "rxn.Q9H3H5-1",
+            "parentid": "0"
+        },
+        {
+            "id": "NB",
+            "name": "N-glycan_core_b-D-GlcpNAc_B",
+            "attachedby": "rxn.Q8BML3-1",
+            "parentid": "NA"
+        },
+        {
+            "id": "NB",
+            "name": "N-glycan_core_b-D-GlcpNAc_B",
+            "attachedby": "rxn.Q96F25-1",
+            "parentid": "NA"
+        },
+        {
+            "id": "NB",
+            "name": "N-glycan_core_b-D-GlcpNAc_B",
+            "attachedby": "rxn.Q9D081-1",
+            "parentid": "NA"
+        },
+        {
+            "id": "NB",
+            "name": "N-glycan_core_b-D-GlcpNAc_B",
+            "attachedby": "rxn.Q9D8C3-1",
+            "parentid": "NA"
+        },
+        {
+            "id": "NB",
+            "name": "N-glycan_core_b-D-GlcpNAc_B",
+            "attachedby": "rxn.Q9NP73-1",
+            "parentid": "NA"
+        },
+        {
+            "id": "NC",
+            "name": "N-glycan_core_b-D-Manp_C",
+            "attachedby": "rxn.Q921Q3-1",
+            "parentid": "NB"
+        },
+        {
+            "id": "NC",
+            "name": "N-glycan_core_b-D-Manp_C",
+            "attachedby": "rxn.Q9BT22-1",
+            "parentid": "NB"
+        },
+        {
+            "id": "N1",
+            "name": "N-glycan_a-D-Manp_1",
+            "attachedby": "rxn.Q9DBE8-1",
+            "parentid": "NC"
+        },
+        {
+            "id": "N1",
+            "name": "N-glycan_a-D-Manp_1",
+            "attachedby": "rxn.Q9H553-1",
+            "parentid": "NC"
+        },
+        {
+            "id": "N2",
+            "name": "N-glycan_b-D-GlcpNAc_2",
+            "attachedby": "rxn.P26572-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N2",
+            "name": "N-glycan_b-D-GlcpNAc_2",
+            "attachedby": "rxn.P27808-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.O60512-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.O60909-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.P15291-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.P15535-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.Q91YY2-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N3",
+            "name": "N-glycan_b-D-Galp_3",
+            "attachedby": "rxn.Q9Z2Y2-1",
+            "parentid": "N2"
+        },
+        {
+            "id": "N4",
+            "name": "N-glycan_a-D-Manp_4",
+            "attachedby": "rxn.Q9DBE8-1",
+            "parentid": "NC"
+        },
+        {
+            "id": "N4",
+            "name": "N-glycan_a-D-Manp_4",
+            "attachedby": "rxn.Q9H553-1",
+            "parentid": "NC"
+        },
+        {
+            "id": "N5",
+            "name": "N-glycan_b-D-GlcpNAc_5",
+            "attachedby": "rxn.Q10469-1",
+            "parentid": "N4"
+        },
+        {
+            "id": "N5",
+            "name": "N-glycan_b-D-GlcpNAc_5",
+            "attachedby": "rxn.Q921V5-1",
+            "parentid": "N4"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.O60512-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.O60909-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.P15291-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.P15535-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.Q91YY2-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N6",
+            "name": "N-glycan_b-D-Galp_6",
+            "attachedby": "rxn.Q9Z2Y2-1",
+            "parentid": "N5"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q812F8-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q812G0-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q9D306-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q9UBM8-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q9UM21-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N7",
+            "name": "N-glycan_b-D-GlcpNAc_7",
+            "attachedby": "rxn.Q9UQ53-1",
+            "parentid": "N1"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.O60512-1",
+            "parentid": "N7"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.O60909-1",
+            "parentid": "N7"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.P15291-1",
+            "parentid": "N7"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.P15535-1",
+            "parentid": "N7"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.Q91YY2-1",
+            "parentid": "N7"
+        },
+        {
+            "id": "N8",
+            "name": "N-glycan_b-D-Galp_8",
+            "attachedby": "rxn.Q9Z2Y2-1",
+            "parentid": "N7"
+        }
+    ],
+    "composition": [
+        {
+            "name": "Hexose",
+            "residue": "hex",
+            "count": 6,
+            "cid": "206",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/206"
+        },
+        {
+            "name": "N-Acetylhexosamine",
+            "residue": "hexnac",
+            "count": 5,
+            "cid": "899",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/899"
+        }
+    ],
+    "composition_expanded": [
+        {
+            "name": "Alditol",
+            "residue": "aldi",
+            "count": 0
+        },
+        {
+            "name": "6-Deoxy-Hexose",
+            "residue": "dhex",
+            "count": 0,
+            "cid": "840",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/840"
+        },
+        {
+            "name": "6-Deoxy-Hexitol",
+            "residue": "dhex+aldi",
+            "count": 0
+        },
+        {
+            "name": "L-Fucose",
+            "residue": "fuc",
+            "count": 0,
+            "cid": "17106",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/17106"
+        },
+        {
+            "name": "L-Fucitol",
+            "residue": "fuc+aldi",
+            "count": 0,
+            "cid": "445724",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/445724"
+        },
+        {
+            "name": "D-Galactose",
+            "residue": "gal",
+            "count": 3,
+            "cid": "6036",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6036"
+        },
+        {
+            "name": "D-Galactitol",
+            "residue": "gal+aldi",
+            "count": 0,
+            "cid": "11850",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/11850"
+        },
+        {
+            "name": "N-Acetyl-D-galactosamine",
+            "residue": "galnac",
+            "count": 0,
+            "cid": "35717",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/35717"
+        },
+        {
+            "name": "N-Acetylgalactosaminitol",
+            "residue": "galnac+aldi",
+            "count": 0,
+            "cid": "165880",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/165880"
+        },
+        {
+            "name": "D-Galacturonic Acid",
+            "residue": "gala",
+            "count": 0,
+            "cid": "439215",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/439215"
+        },
+        {
+            "name": "D-Glucose",
+            "residue": "glc",
+            "count": 0,
+            "cid": "5793",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5793"
+        },
+        {
+            "name": "D-Glucitol",
+            "residue": "glc+aldi",
+            "count": 0,
+            "cid": "5780",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5780"
+        },
+        {
+            "name": "D-Glucuronic acid",
+            "residue": "glca",
+            "count": 0,
+            "cid": "94715",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/94715"
+        },
+        {
+            "name": "D-Glucosamine",
+            "residue": "glcn",
+            "count": 0,
+            "cid": "439213",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/439213"
+        },
+        {
+            "name": "N-Acetyl-D-Glucosamine",
+            "residue": "glcnac",
+            "count": 5,
+            "cid": "439174",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/439174"
+        },
+        {
+            "name": "N-Acetyl-D-glucosaminitol",
+            "residue": "glcnac+aldi",
+            "count": 0,
+            "cid": "165206",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/165206"
+        },
+        {
+            "name": "Hexose",
+            "residue": "hex",
+            "count": 6,
+            "cid": "206",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/206"
+        },
+        {
+            "name": "N-Acetylhexosamine",
+            "residue": "hexnac",
+            "count": 5,
+            "cid": "899",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/899"
+        },
+        {
+            "name": "Hexuronic Acid",
+            "residue": "hexa",
+            "count": 0,
+            "cid": "610",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/610"
+        },
+        {
+            "name": "2-Amino-2-Deoxy-Hexose",
+            "residue": "hexn",
+            "count": 0,
+            "cid": "739",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/739"
+        },
+        {
+            "name": "Hexitol",
+            "residue": "hex+aldi",
+            "count": 0,
+            "cid": "453",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/453"
+        },
+        {
+            "name": "N-Acetylhexosaminitol",
+            "residue": "hexnac+aldi",
+            "count": 0
+        },
+        {
+            "name": "L-Iduronic acid",
+            "residue": "idoa",
+            "count": 0,
+            "cid": "441039",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/441039"
+        },
+        {
+            "name": "D-Mannose",
+            "residue": "man",
+            "count": 3,
+            "cid": "18950",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/18950"
+        },
+        {
+            "name": "D-Mannitol",
+            "residue": "man+aldi",
+            "count": 0,
+            "cid": "6251",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6251"
+        },
+        {
+            "name": "N-Acetyl-D-mannosamine",
+            "residue": "mannac",
+            "count": 0,
+            "cid": "439281",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/439281"
+        },
+        {
+            "name": "Methyl",
+            "residue": "me",
+            "count": 0
+        },
+        {
+            "name": "N-Acetyl-Neuraminic Acid",
+            "residue": "neuac",
+            "count": 0,
+            "cid": "439197",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/439197"
+        },
+        {
+            "name": "N-Glycolyl-Neuraminic Acid",
+            "residue": "neugc",
+            "count": 0,
+            "cid": "440001",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/440001"
+        },
+        {
+            "name": "Phosphate",
+            "residue": "p",
+            "count": 0,
+            "cid": "1061",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1061"
+        },
+        {
+            "name": "Pentose",
+            "residue": "pent",
+            "count": 0,
+            "cid": "229",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/229"
+        },
+        {
+            "name": "Sulfate",
+            "residue": "s",
+            "count": 0,
+            "cid": "1117",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1117"
+        },
+        {
+            "name": "Sialic acid",
+            "residue": "sia",
+            "count": 0
+        },
+        {
+            "name": "Other",
+            "residue": "other",
+            "count": 0
+        },
+        {
+            "name": "Floating substituent",
+            "residue": "x",
+            "count": 0
+        },
+        {
+            "name": "D-Xylose",
+            "residue": "xyl",
+            "count": 0,
+            "cid": "135191",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/135191"
+        },
+        {
+            "name": "Ketodeoxynononic acid",
+            "residue": "kdn",
+            "count": 0,
+            "cid": "13991616",
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/13991616"
+        }
+    ],
+    "motifs": [
+        {
+            "id": "GGM.000001",
+            "name": "Type 2 LN",
+            "synonym": "N-acetyllactosamine",
+            "keywords": "LacNAc; N-acetyllactosamine; N-acetyllactosamine type 2"
+        }
+    ],
+    "expression": [
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1691598",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "id": "7690196",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "id": "7513972",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "start_pos": 156,
+            "end_pos": 156,
+            "residue": "Asn",
+            "uniprot_canonical_ac": "P12763-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1691598",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "id": "7690196",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "id": "7513972",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "start_pos": 176,
+            "end_pos": 176,
+            "residue": "Asn",
+            "uniprot_canonical_ac": "P12763-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1691598",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "id": "7690196",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "id": "7513972",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                }
+            ],
+            "start_pos": 99,
+            "end_pos": 99,
+            "residue": "Asn",
+            "uniprot_canonical_ac": "P12763-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood plasma",
+                "namespace": "UBERON",
+                "id": "0001969",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001969"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7620335",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                }
+            ],
+            "start_pos": 221,
+            "end_pos": 221,
+            "residue": "Asn",
+            "uniprot_canonical_ac": "P00742-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood plasma",
+                "namespace": "UBERON",
+                "id": "0001969",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001969"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7620335",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                }
+            ],
+            "start_pos": 231,
+            "end_pos": 231,
+            "residue": "Asn",
+            "uniprot_canonical_ac": "P00742-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1637829",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1637829"
+                }
+            ],
+            "uniprot_canonical_ac": "P00797-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "kidney",
+                "namespace": "UBERON",
+                "id": "0002113",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002113"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "9555945",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/9555945"
+                }
+            ],
+            "uniprot_canonical_ac": "P04180-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "liver",
+                "namespace": "UBERON",
+                "id": "0002107",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002107"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2110822",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                }
+            ],
+            "uniprot_canonical_ac": "P07602-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2813359",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "id": "3346214",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                }
+            ],
+            "uniprot_canonical_ac": "P01588-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "urine",
+                "namespace": "UBERON",
+                "id": "0001088",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001088"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "3346214",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                },
+                {
+                    "id": "3179269",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                }
+            ],
+            "uniprot_canonical_ac": "P01588-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "kidney",
+                "namespace": "UBERON",
+                "id": "0002113",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002113"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "8981093",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/8981093"
+                },
+                {
+                    "id": "3179269",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                }
+            ],
+            "uniprot_canonical_ac": "P01588-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "urine",
+                "namespace": "UBERON",
+                "id": "0001088",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001088"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "9449027",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "id": "1967025",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "id": "6643471",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ],
+            "uniprot_canonical_ac": "P01215-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "urine",
+                "namespace": "UBERON",
+                "id": "0001088",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001088"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "9449027",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "id": "1967025",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "id": "6643471",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ],
+            "uniprot_canonical_ac": "P0DN86-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2059624",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2059624"
+                }
+            ],
+            "uniprot_canonical_ac": "P00747-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "amnion",
+                "namespace": "UBERON",
+                "id": "0000305",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000305"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2297756",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2297756"
+                }
+            ],
+            "uniprot_canonical_ac": "P09923-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood plasma",
+                "namespace": "UBERON",
+                "id": "0001969",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001969"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1577715",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1577715"
+                }
+            ],
+            "uniprot_canonical_ac": "P04275-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood plasma",
+                "namespace": "UBERON",
+                "id": "0001969",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001969"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "728395",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/728395"
+                },
+                {
+                    "id": "7380009",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7380009"
+                }
+            ],
+            "uniprot_canonical_ac": "P19652-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10704524",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                }
+            ],
+            "uniprot_canonical_ac": "P17050-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7679920",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                }
+            ],
+            "uniprot_canonical_ac": "P02771-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ascitic fluid",
+                "namespace": "UBERON",
+                "id": "0007795",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0007795"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7679920",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                }
+            ],
+            "uniprot_canonical_ac": "P02771-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "kidney",
+                "namespace": "UBERON",
+                "id": "0002113",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002113"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10918037",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10918037"
+                }
+            ],
+            "uniprot_canonical_ac": "P14151-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10764830",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10764830"
+                }
+            ],
+            "uniprot_canonical_ac": "P01579-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10211705",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10211705"
+                }
+            ],
+            "uniprot_canonical_ac": "P01876-2"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "placenta",
+                "namespace": "UBERON",
+                "id": "0001987",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001987"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "15316280",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                }
+            ],
+            "uniprot_canonical_ac": "P0DN86-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "placenta",
+                "namespace": "UBERON",
+                "id": "0001987",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001987"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "15316280",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                }
+            ],
+            "uniprot_canonical_ac": "P01215-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "brain",
+                "namespace": "UBERON",
+                "id": "0000955",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000955"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10406848",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10406848"
+                }
+            ],
+            "uniprot_canonical_ac": "Q8BYI9-1"
+        },
+        {
+            "category": "tissue",
+            "tissue": {
+                "name": "liver",
+                "namespace": "UBERON",
+                "id": "0002107",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002107"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "8612632",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/8612632"
+                }
+            ],
+            "uniprot_canonical_ac": "P08289-1"
+        }
+    ],
+    "tissue": [
+        {
+            "tissue": {
+                "name": "blood serum",
+                "namespace": "UBERON",
+                "id": "0001977",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001977"
+            },
+            "species": {
+                "name": "Bos taurus",
+                "taxid": 9913,
+                "reference_species": "Bos taurus [9913]",
+                "common_name": "Bovine",
+                "glygen_name": "Bovine"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1691598",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1691598"
+                },
+                {
+                    "id": "7690196",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7690196"
+                },
+                {
+                    "id": "7513972",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7513972"
+                },
+                {
+                    "id": "7679920",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                },
+                {
+                    "id": "10211705",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10211705"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "blood plasma",
+                "namespace": "UBERON",
+                "id": "0001969",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001969"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7620335",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7620335"
+                },
+                {
+                    "id": "1577715",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1577715"
+                },
+                {
+                    "id": "728395",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/728395"
+                },
+                {
+                    "id": "7380009",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7380009"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "ovary",
+                "namespace": "UBERON",
+                "id": "0000992",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000992"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "1637829",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1637829"
+                },
+                {
+                    "id": "2813359",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2813359"
+                },
+                {
+                    "id": "3346214",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                },
+                {
+                    "id": "2059624",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2059624"
+                },
+                {
+                    "id": "10704524",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10704524"
+                },
+                {
+                    "id": "10764830",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10764830"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "kidney",
+                "namespace": "UBERON",
+                "id": "0002113",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002113"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "9555945",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/9555945"
+                },
+                {
+                    "id": "8981093",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/8981093"
+                },
+                {
+                    "id": "3179269",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                },
+                {
+                    "id": "10918037",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10918037"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "liver",
+                "namespace": "UBERON",
+                "id": "0002107",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0002107"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2110822",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2110822"
+                },
+                {
+                    "id": "8612632",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/8612632"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "urine",
+                "namespace": "UBERON",
+                "id": "0001088",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001088"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "3346214",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3346214"
+                },
+                {
+                    "id": "9449027",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/9449027"
+                },
+                {
+                    "id": "3179269",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/3179269"
+                },
+                {
+                    "id": "1967025",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/1967025"
+                },
+                {
+                    "id": "6643471",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/6643471"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "amnion",
+                "namespace": "UBERON",
+                "id": "0000305",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000305"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "2297756",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/2297756"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "ascitic fluid",
+                "namespace": "UBERON",
+                "id": "0007795",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0007795"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "7679920",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/7679920"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "placenta",
+                "namespace": "UBERON",
+                "id": "0001987",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0001987"
+            },
+            "species": {
+                "name": "Homo sapiens",
+                "taxid": 9606,
+                "reference_species": "Homo sapiens [9606]",
+                "common_name": "Human",
+                "glygen_name": "Human"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "15316280",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/15316280"
+                }
+            ]
+        },
+        {
+            "tissue": {
+                "name": "brain",
+                "namespace": "UBERON",
+                "id": "0000955",
+                "url": "http://purl.obolibrary.org/obo/UBERON_0000955"
+            },
+            "species": {
+                "name": "Mus musculus",
+                "taxid": 10090,
+                "reference_species": "Mus musculus [10090]",
+                "common_name": "Mouse",
+                "glygen_name": "Mouse"
+            },
+            "evidence": [
+                {
+                    "id": "3539",
+                    "database": "GlyConnect",
+                    "url": "https://glyconnect.expasy.org/browser/structures/3539"
+                },
+                {
+                    "id": "10406848",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/10406848"
+                }
+            ]
+        }
+    ],
+    "subsumption": [
+        {
+            "related_accession": "G02624IW",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G03436RQ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G04964ME",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G09175SN",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G18309SU",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G19423HE",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G19594VJ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G20425TQ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G20663AI",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G21385RI",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G21971TQ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G22118PM",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G22159OA",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G22538PK",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G24604HV",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G27763JP",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G30350PZ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G34761EG",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G35691FR",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G36057HE",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G36131WL",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G38714CC",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G38756OC",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G38944HT",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G43320NB",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G44489BZ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G48526TN",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G49778TF",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G50293LU",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G50761PC",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G51758ZU",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G52565ZR",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G54709AG",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G55661CO",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G59285YB",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G60033FS",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G62109NW",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G62694TK",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G62837OZ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G66334ON",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G66441ML",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G67457ES",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G67899LA",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G68164MW",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G70386WW",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G71479BM",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G72067BD",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G73006TR",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G76096CN",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G79954CG",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G80343LW",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G86993RB",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G88141SC",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G89026PK",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G90852GT",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G91161EQ",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G91496ML",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G92793BY",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G93109VE",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G98637UP",
+            "relationship": "ancestor"
+        },
+        {
+            "related_accession": "G60033FS",
+            "relationship": "basecomposition"
+        },
+        {
+            "related_accession": "G50293LU",
+            "relationship": "composition"
+        },
+        {
+            "related_accession": "G18309SU",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G24604HV",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G48526TN",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G66441ML",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G88141SC",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G89026PK",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G92793BY",
+            "relationship": "subsumedby"
+        },
+        {
+            "related_accession": "G91496ML",
+            "relationship": "topology"
+        }
+    ],
+    "keywords": [
+        "fully_determined"
+    ],
+    "glycotree_pathways": [
+        {
+            "source": "G62504BU",
+            "target": "G29857RC",
+            "residue_affected": {
+                "id": "N8",
+                "full_name": "&beta;-D-Galp"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "Q9Z2Y2",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        },
+        {
+            "source": "G43299SD",
+            "target": "G62504BU",
+            "residue_affected": {
+                "id": "N3",
+                "full_name": "&beta;-D-Galp"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "Q9Z2Y2",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        },
+        {
+            "source": "G29011JC",
+            "target": "G43299SD",
+            "residue_affected": {
+                "id": "N6",
+                "full_name": "&beta;-D-Galp"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "Q9Z2Y2",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        },
+        {
+            "source": "G39213VZ",
+            "target": "G29011JC",
+            "residue_affected": {
+                "id": "N7",
+                "full_name": "&beta;-D-GlcpNAc"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "Q9D306",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        },
+        {
+            "source": "G61751GZ",
+            "target": "G39213VZ",
+            "residue_affected": {
+                "id": "N5",
+                "full_name": "&beta;-D-GlcpNAc"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "Q921V5",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        },
+        {
+            "source": "G22768VO",
+            "target": "G61751GZ",
+            "residue_affected": {
+                "id": "N2",
+                "full_name": "&beta;-D-GlcpNAc"
+            },
+            "enzymes": [
+                {
+                    "uniprotkb_ac": "P27808",
+                    "tax_name": "Mus musculus"
+                }
+            ]
+        }
+    ],
+    "section_stats": [
+        {
+            "table_id": "glycoprotein",
+            "table_stats": [
+                {
+                    "field": "total",
+                    "count": 35
+                },
+                {
+                    "field": "total_sites",
+                    "count": 18
+                }
+            ],
+            "sort_fields": [
+                "uniprot_canonical_ac",
+                "start_pos",
+                "end_pos",
+                "residue",
+                "protein_name",
+                "gene_name",
+                "tax_id",
+                "tax_name",
+                "tax_common_name"
+            ]
+        },
+        {
+            "table_id": "expression",
+            "table_stats": [
+                {
+                    "field": "total",
+                    "count": 27
+                },
+                {
+                    "field": "total_sites",
+                    "count": 5
+                }
+            ],
+            "sort_fields": [
+                "category",
+                "tissue.name",
+                "tissue.namespace",
+                "tissue.id",
+                "tissue.url",
+                "abundance",
+                "start_pos",
+                "end_pos",
+                "residue",
+                "uniprot_canonical_ac"
+            ]
+        },
+        {
+            "table_id": "expression_tissue",
+            "table_stats": [
+                {
+                    "field": "total",
+                    "count": 27
+                },
+                {
+                    "field": "total_sites",
+                    "count": 5
+                }
+            ],
+            "sort_fields": [
+                "category",
+                "tissue.name",
+                "tissue.namespace",
+                "tissue.id",
+                "tissue.url",
+                "abundance",
+                "start_pos",
+                "end_pos",
+                "residue",
+                "uniprot_canonical_ac"
+            ]
+        },
+        {
+            "table_id": "expression_cell_line",
+            "table_stats": [
+                {
+                    "field": "total",
+                    "count": 0
+                },
+                {
+                    "field": "total_sites",
+                    "count": 0
+                }
+            ],
+            "sort_fields": [
+                "category",
+                "abundance",
+                "start_pos",
+                "end_pos",
+                "residue",
+                "uniprot_canonical_ac"
+            ]
+        },
+        {
+            "table_id": "publication",
+            "table_stats": [
+                {
+                    "field": "total",
+                    "count": 41
+                }
+            ],
+            "sort_fields": [
+                "title",
+                "journal",
+                "date",
+                "authors"
+            ]
+        }
+    ],
+    "history": [
+        {
+            "type": "added",
+            "description": "introduced in data release 1.0.13"
+        }
+    ]
+}

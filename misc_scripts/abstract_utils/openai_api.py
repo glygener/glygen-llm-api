@@ -14,7 +14,7 @@ class OpenAILLMUtil(LLMUtil):
         type: str = "custom",
         custom_prompt: str = "",
         max_tokens: int = 1000,
-        max_retries: int = 2
+        max_retries: int = 1
     ):
         super().__init__(api_key_name, type, custom_prompt, max_tokens, max_retries)
         self.instance = openai.OpenAI(api_key=self._api_key)
@@ -34,8 +34,10 @@ class OpenAILLMUtil(LLMUtil):
             try:
                 response = self.instance.chat.completions.create(
                     model="gpt-4o-mini",
+                    # model="gpt-5.4",
                     messages=messages,
                     store=True, # Set to False to prevent storage
+                    # max_completion_tokens=1000,
                     max_tokens=1000,
                 )
 

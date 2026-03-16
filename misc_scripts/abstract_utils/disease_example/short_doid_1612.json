@@ -1,0 +1,3062 @@
+{
+    "disease_id": "DOID:1612",
+    "recommended_name": {
+        "id": "DOID:1612",
+        "resource": "Disease Ontology",
+        "url": "http://disease-ontology.org/term/DOID:1612",
+        "name": "breast cancer",
+        "description": "An organ system cancer that originates in the mammary gland."
+    },
+    "synonyms": [
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "breast tumor",
+            "description": ""
+        },
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "malignant neoplasm of breast",
+            "description": ""
+        },
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "malignant tumor of the breast",
+            "description": ""
+        },
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "mammary cancer",
+            "description": ""
+        },
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "mammary tumor",
+            "description": ""
+        },
+        {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "primary breast cancer",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast carcinoma",
+            "description": "Breast carcinoma that has developed in relatives of patients with history of breast carcinoma."
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer susceptibility, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, early-onset, susceptibility to, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, invasive ductal, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, lobular, somatic",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, male, susceptibility to, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, protection against, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, somatic",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, susceptibility to, autosomal dominant, somatic mutation",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial breast cancer",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial breast carcinoma",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial cancer of breast",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial cancer of the breast",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast cancer",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast carcinoma",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, familial",
+            "description": ""
+        },
+        {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, familial Male",
+            "description": ""
+        },
+        {
+            "id": "MIM:114480",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/114480",
+            "name": "Breast cancer",
+            "description": "Breast cancer"
+        }
+    ],
+    "children": [
+        {
+            "id": "DOID:3017",
+            "label": "breast sarcoma",
+            "link_status": false,
+            "children": [
+                {
+                    "id": "DOID:4511",
+                    "label": "breast angiosarcoma",
+                    "link_status": true,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "DOID:1614",
+            "label": "male breast cancer",
+            "link_status": true,
+            "children": []
+        },
+        {
+            "id": "DOID:0060076",
+            "label": "estrogen-receptor negative breast cancer",
+            "link_status": true,
+            "children": []
+        },
+        {
+            "id": "DOID:0060075",
+            "label": "estrogen-receptor positive breast cancer",
+            "link_status": true,
+            "children": []
+        },
+        {
+            "id": "DOID:0060081",
+            "label": "triple-receptor negative breast cancer",
+            "link_status": true,
+            "children": []
+        },
+        {
+            "id": "DOID:3459",
+            "label": "breast carcinoma",
+            "link_status": true,
+            "children": [
+                {
+                    "id": "DOID:5050",
+                    "label": "Ehrlich tumor carcinoma",
+                    "link_status": true,
+                    "children": []
+                },
+                {
+                    "id": "DOID:4680",
+                    "label": "breast metaplastic carcinoma",
+                    "link_status": true,
+                    "children": []
+                },
+                {
+                    "id": "DOID:3458",
+                    "label": "breast adenocarcinoma",
+                    "link_status": true,
+                    "children": [
+                        {
+                            "id": "DOID:3443",
+                            "label": "mammary Paget's disease",
+                            "link_status": true,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "DOID:8029",
+                    "label": "sporadic breast cancer",
+                    "link_status": true,
+                    "children": []
+                },
+                {
+                    "id": "DOID:3007",
+                    "label": "breast ductal carcinoma",
+                    "link_status": true,
+                    "children": [
+                        {
+                            "id": "DOID:3008",
+                            "label": "invasive ductal carcinoma",
+                            "link_status": true,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "DOID:0050938",
+                    "label": "breast lobular carcinoma",
+                    "link_status": false,
+                    "children": [
+                        {
+                            "id": "DOID:3457",
+                            "label": "invasive lobular carcinoma",
+                            "link_status": true,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "DOID:7843",
+                    "label": "female breast carcinoma",
+                    "link_status": true,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "DOID:0050671",
+            "label": "female breast cancer",
+            "link_status": true,
+            "children": []
+        }
+    ],
+    "id_list": [
+        "DOID:0050938",
+        "DOID:3017",
+        "DOID:4680",
+        "DOID:7843",
+        "DOID:3007",
+        "DOID:3459",
+        "DOID:3458",
+        "DOID:1612",
+        "DOID:1614",
+        "DOID:3457",
+        "DOID:3443",
+        "DOID:0060081",
+        "DOID:0060075",
+        "DOID:3008",
+        "DOID:0060076",
+        "DOID:8029",
+        "DOID:4511",
+        "DOID:5050",
+        "DOID:0050671"
+    ],
+    "unlinked_id_list": [
+        "DOID:3017",
+        "DOID:0050938"
+    ],
+    "crossref": [
+        {
+            "id": "DOID:1612",
+            "database": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "categories": []
+        },
+        {
+            "id": "MONDO:0016419",
+            "database": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "categories": []
+        },
+        {
+            "id": "MIM:114480",
+            "database": "MIM",
+            "url": "https://www.omim.org/entry/114480",
+            "categories": []
+        }
+    ],
+    "proteins": [
+        {
+            "uniprot_canonical_ac": "A8Y592-1",
+            "uniprot_ac": "A8Y592",
+            "uniprot_id": "A8Y592_DROME",
+            "refseq_ac": "NP_001104460",
+            "glycoprotein": "no",
+            "species": [
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                }
+            ],
+            "protein_names": [
+                {
+                    "name": "1.-.-.-",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "1.14.-.-",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG41624-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2Psi",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spookier",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "cytochrome P450",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spok-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spook 2",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spookier",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "gene_names": [
+                {
+                    "name": "spok",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "307a2p",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "307a2p",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG40123",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG40123",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG41624",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG41624",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A2",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A2",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2Psi",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2Psi",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2p",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2p",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a2",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG41624",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG41624",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel_CG41624",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmspok",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmspok",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spok",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spok",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "cyp307a2",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "cyp307a2",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spo2",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spo2",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spok",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "1612",
+                    "database": "AGR",
+                    "url": "https://www.alliancegenome.org/disease/DOID:1612"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9VRM7-1",
+            "uniprot_ac": "Q9VRM7",
+            "uniprot_id": "CP307_DROME",
+            "refseq_ac": "NP_001286943",
+            "glycoprotein": "no",
+            "species": [
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                }
+            ],
+            "protein_names": [
+                {
+                    "name": "Cytochrome P450 307a1",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "1.14.-.-",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG10594-PC",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYPCCCVIIA1",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Protein spook",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spo-PC",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spook, isoform C",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spook",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "gene_names": [
+                {
+                    "name": "spo",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "307a1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "307a1",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG10594",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG10594",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A1-Dm",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A1-Dm",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CYP307A1",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Cyp307a1",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG10594",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG10594",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel_CG10594",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmspo",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmspo",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spo",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spo",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spo-RA",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "spo",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "1612",
+                    "database": "AGR",
+                    "url": "https://www.alliancegenome.org/disease/DOID:1612"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q9VLZ8-1",
+            "uniprot_ac": "Q9VLZ8",
+            "uniprot_id": "Q9VLZ8_DROME",
+            "refseq_ac": "NP_001260209",
+            "glycoprotein": "no",
+            "species": [
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                }
+            ],
+            "protein_names": [
+                {
+                    "name": "CG6717-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Serpin 28B, isoform A",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Serpin 28B, isoform B",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn28B-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "serine protease inhibitor 7",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "serpin 28B, isoform B",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "gene_names": [
+                {
+                    "name": "Spn28B",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "CG6717",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG6717",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG6717",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG6717",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel_CG6717",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn28B",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn7",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn7",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "1612",
+                    "database": "AGR",
+                    "url": "https://www.alliancegenome.org/disease/DOID:1612"
+                }
+            ]
+        },
+        {
+            "uniprot_canonical_ac": "Q7YTY6-1",
+            "uniprot_ac": "Q7YTY6",
+            "uniprot_id": "SP42D_DROME",
+            "refseq_ac": "NP_001163067",
+            "glycoprotein": "yes",
+            "species": [
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                }
+            ],
+            "protein_names": [
+                {
+                    "name": "Serine protease inhibitor 42Dd",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "CG9456-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Serpin 42Dd",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn42Dd-PB",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "serine protease inhibitor 1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "serpin 1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "serpin 42Dd",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "gene_names": [
+                {
+                    "name": "Spn42Dd",
+                    "resource": "UniProtKB",
+                    "type": "recommended"
+                },
+                {
+                    "name": "CG9456",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "CG9456",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Dmel\\CG9456",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn1",
+                    "resource": "UniProtKB",
+                    "type": "synonym"
+                },
+                {
+                    "name": "Spn42Dd",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                },
+                {
+                    "name": "sp1",
+                    "resource": "RefSeq",
+                    "type": "synonym"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "1612",
+                    "database": "AGR",
+                    "url": "https://www.alliancegenome.org/disease/DOID:1612"
+                }
+            ]
+        }
+    ],
+    "glycans": [
+        {
+            "glytoucan_ac": "G36521AS",
+            "names": [],
+            "species": [
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18818422",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18818422"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G35622MN",
+            "names": [],
+            "species": [
+                {
+                    "name": "Bos taurus",
+                    "taxid": 9913,
+                    "common_name": "Bovine",
+                    "glygen_name": "Bovine",
+                    "reference_species": "Bos taurus [9913]"
+                },
+                {
+                    "name": "Sus scrofa",
+                    "taxid": 9823,
+                    "common_name": "Pig",
+                    "glygen_name": "Pig",
+                    "reference_species": "Sus scrofa [9823]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Danio rerio",
+                    "taxid": 7955,
+                    "common_name": "Zebrafish",
+                    "glygen_name": "Zebrafish",
+                    "reference_species": "Danio rerio [7955]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G03692CL",
+            "names": [],
+            "species": [
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Danio rerio",
+                    "taxid": 7955,
+                    "common_name": "Zebrafish",
+                    "glygen_name": "Zebrafish",
+                    "reference_species": "Danio rerio [7955]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G28790AT",
+            "names": [],
+            "species": [
+                {
+                    "name": "Cricetulus griseus",
+                    "taxid": 10029,
+                    "common_name": "Chinese hamster",
+                    "glygen_name": "Hamster",
+                    "reference_species": "Cricetulus griseus [10029]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Severe acute respiratory syndrome coronavirus 2",
+                    "taxid": 2697049,
+                    "common_name": "2019-nCoV",
+                    "glygen_name": "SARS-CoV-2",
+                    "reference_species": "Severe acute respiratory syndrome coronavirus 2 [2697049]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G20102QS",
+            "names": [],
+            "species": [
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G72750GQ",
+            "names": [],
+            "species": [
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Cricetulus griseus",
+                    "taxid": 10029,
+                    "common_name": "Chinese hamster",
+                    "glygen_name": "Hamster",
+                    "reference_species": "Cricetulus griseus [10029]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Severe acute respiratory syndrome coronavirus 2",
+                    "taxid": 2697049,
+                    "common_name": "2019-nCoV",
+                    "glygen_name": "SARS-CoV-2",
+                    "reference_species": "Severe acute respiratory syndrome coronavirus 2 [2697049]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G66374JF",
+            "names": [],
+            "species": [
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Cricetulus griseus",
+                    "taxid": 10029,
+                    "common_name": "Chinese hamster",
+                    "glygen_name": "Hamster",
+                    "reference_species": "Cricetulus griseus [10029]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G46440UD",
+            "names": [],
+            "species": [
+                {
+                    "name": "Bos taurus",
+                    "taxid": 9913,
+                    "common_name": "Bovine",
+                    "glygen_name": "Bovine",
+                    "reference_species": "Bos taurus [9913]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G41793DV",
+            "names": [],
+            "species": [
+                {
+                    "name": "Cricetulus griseus",
+                    "taxid": 10029,
+                    "common_name": "Chinese hamster",
+                    "glygen_name": "Hamster",
+                    "reference_species": "Cricetulus griseus [10029]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Danio rerio",
+                    "taxid": 7955,
+                    "common_name": "Zebrafish",
+                    "glygen_name": "Zebrafish",
+                    "reference_species": "Danio rerio [7955]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G80966KZ",
+            "names": [],
+            "species": [
+                {
+                    "name": "Bos taurus",
+                    "taxid": 9913,
+                    "common_name": "Bovine",
+                    "glygen_name": "Bovine",
+                    "reference_species": "Bos taurus [9913]"
+                },
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Sus scrofa",
+                    "taxid": 9823,
+                    "common_name": "Pig",
+                    "glygen_name": "Pig",
+                    "reference_species": "Sus scrofa [9823]"
+                },
+                {
+                    "name": "Rattus norvegicus",
+                    "taxid": 10116,
+                    "common_name": "Rat",
+                    "glygen_name": "Rat",
+                    "reference_species": "Rattus norvegicus [10116]"
+                },
+                {
+                    "name": "Severe acute respiratory syndrome coronavirus 2",
+                    "taxid": 2697049,
+                    "common_name": "2019-nCoV",
+                    "glygen_name": "SARS-CoV-2",
+                    "reference_species": "Severe acute respiratory syndrome coronavirus 2 [2697049]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G36059IK",
+            "names": [],
+            "species": [
+                {
+                    "name": "Bos taurus",
+                    "taxid": 9913,
+                    "common_name": "Bovine",
+                    "glygen_name": "Bovine",
+                    "reference_species": "Bos taurus [9913]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Sus scrofa",
+                    "taxid": 9823,
+                    "common_name": "Pig",
+                    "glygen_name": "Pig",
+                    "reference_species": "Sus scrofa [9823]"
+                },
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Rattus",
+                    "taxid": 10114,
+                    "common_name": "Rattus",
+                    "glygen_name": "Rattus",
+                    "reference_species": "Rattus [10114]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G66676MI",
+            "names": [],
+            "species": [
+                {
+                    "name": "Arabidopsis thaliana",
+                    "taxid": 3702,
+                    "common_name": "Mouse-ear cress",
+                    "glygen_name": "Arabidopsis",
+                    "reference_species": "Arabidopsis thaliana [3702]"
+                },
+                {
+                    "name": "Bos taurus",
+                    "taxid": 9913,
+                    "common_name": "Bovine",
+                    "glygen_name": "Bovine",
+                    "reference_species": "Bos taurus [9913]"
+                },
+                {
+                    "name": "Gallus gallus",
+                    "taxid": 9031,
+                    "common_name": "Chicken",
+                    "glygen_name": "Chicken",
+                    "reference_species": "Gallus gallus [9031]"
+                },
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                },
+                {
+                    "name": "Mus musculus",
+                    "taxid": 10090,
+                    "common_name": "Mouse",
+                    "glygen_name": "Mouse",
+                    "reference_species": "Mus musculus [10090]"
+                },
+                {
+                    "name": "Sus scrofa",
+                    "taxid": 9823,
+                    "common_name": "Pig",
+                    "glygen_name": "Pig",
+                    "reference_species": "Sus scrofa [9823]"
+                },
+                {
+                    "name": "Saccharomyces cerevisiae",
+                    "taxid": 4932,
+                    "common_name": "Baker's yeast",
+                    "glygen_name": "Yeast",
+                    "reference_species": "Saccharomyces cerevisiae [4932]"
+                },
+                {
+                    "name": "Drosophila melanogaster",
+                    "taxid": 7227,
+                    "common_name": "Fruit fly",
+                    "glygen_name": "Fruit fly",
+                    "reference_species": "Drosophila melanogaster [7227]"
+                },
+                {
+                    "name": "Rattus norvegicus",
+                    "taxid": 10116,
+                    "common_name": "Rat",
+                    "glygen_name": "Rat",
+                    "reference_species": "Rattus norvegicus [10116]"
+                },
+                {
+                    "name": "Severe acute respiratory syndrome coronavirus 2",
+                    "taxid": 2697049,
+                    "common_name": "2019-nCoV",
+                    "glygen_name": "SARS-CoV-2",
+                    "reference_species": "Severe acute respiratory syndrome coronavirus 2 [2697049]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "glytoucan_ac": "G26366JF",
+            "names": [
+                {
+                    "name": "G",
+                    "domain": "Composition (Short)"
+                },
+                {
+                    "name": "HexNAc0Hex0dHex0NeuAc0NeuGc1Pent0S0P0KDN0HexA0",
+                    "domain": "UniCarbKB"
+                },
+                {
+                    "name": "NeuGc(1)",
+                    "domain": "Byonic"
+                },
+                {
+                    "name": "NeuGc1",
+                    "domain": "UniCarbKB (Short)"
+                }
+            ],
+            "species": [
+                {
+                    "name": "Homo sapiens",
+                    "taxid": 9606,
+                    "common_name": "Human",
+                    "glygen_name": "Human",
+                    "reference_species": "Homo sapiens [9606]"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "35346112",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/35346112"
+                }
+            ]
+        }
+    ],
+    "biomarkers": [
+        {
+            "biomarker_id": "AN6709-1",
+            "biomarker_canonical_id": "AN6709",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Lewis x fucosylated monogalactosylated triantennary N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G36521AS",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18818422",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18818422"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6727-1",
+            "biomarker_canonical_id": "AN6727",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Monosialylated core fucosylated N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G35622MN",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "BB1517-1",
+            "biomarker_canonical_id": "BB1517",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Disialylated Lewis fucosylated triantennary core fucosylated N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G03692CL",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6729-1",
+            "biomarker_canonical_id": "AN6729",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Disialylated tetraantennary core fucosylated N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G28790AT",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6730-1",
+            "biomarker_canonical_id": "AN6730",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Trisialylated Lewis fucosylated triantennary core fucosylated N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G20102QS",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6731-1",
+            "biomarker_canonical_id": "AN6731",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Trisialylated core fucosylated tetraantennary N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G72750GQ",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6732-1",
+            "biomarker_canonical_id": "AN6732",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Tetrasialylated tetraantennary N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G66374JF",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6733-1",
+            "biomarker_canonical_id": "AN6733",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Disialylated triantennary N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "decreased N-glycan level",
+                    "assessed_biomarker_entity_id": "G46440UD",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6734-1",
+            "biomarker_canonical_id": "AN6734",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Monosialylated hybrid N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "decreased N-glycan level",
+                    "assessed_biomarker_entity_id": "G41793DV",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "18487288",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/18487288"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6739-1",
+            "biomarker_canonical_id": "AN6739",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Man6 high mannose N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G80966KZ",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6740-1",
+            "biomarker_canonical_id": "AN6740",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Man7 high mannose N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G36059IK",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6741-1",
+            "biomarker_canonical_id": "AN6741",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Man8 high mannose N-glycan",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G66676MI",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30889355",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30889355"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6742-1",
+            "biomarker_canonical_id": "AN6742",
+            "best_biomarker_role": [
+                {
+                    "role": "monitoring"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Neu5Gc",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased N-glycan level",
+                    "assessed_biomarker_entity_id": "G26366JF",
+                    "assessed_entity_type": "glycan"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "35346112",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/35346112"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6290-2",
+            "biomarker_canonical_id": "AN6290",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "C-reactive protein",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased CRP level",
+                    "assessed_biomarker_entity_id": "P02741-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "19470939",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/19470939"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6294-3",
+            "biomarker_canonical_id": "AN6294",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Serum amyloid A-1 protein",
+                        "synonyms": [
+                            {
+                                "synonym": "Amyloid fibril protein AA"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased SAA1 level",
+                    "assessed_biomarker_entity_id": "P0DJI8-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "19470939",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/19470939"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6314-3",
+            "biomarker_canonical_id": "AN6314",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "WAP four-disulfide core domain protein 2",
+                        "synonyms": [
+                            {
+                                "synonym": "Major epididymis-specific protein E4"
+                            },
+                            {
+                                "synonym": "Putative protease inhibitor WAP5"
+                            },
+                            {
+                                "synonym": "Epididymal secretory protein E4"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased WFDC2 level",
+                    "assessed_biomarker_entity_id": "Q14508-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "27446579",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/27446579"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6316-1",
+            "biomarker_canonical_id": "AN6316",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Carcinoembryonic antigen-related cell adhesion molecule 5",
+                        "synonyms": [
+                            {
+                                "synonym": "Carcinoembryonic antigen"
+                            },
+                            {
+                                "synonym": "CEA"
+                            },
+                            {
+                                "synonym": "Meconium antigen 100"
+                            },
+                            {
+                                "synonym": "Carcinoembryonic antigen-related cell adhesion molecule 5"
+                            },
+                            {
+                                "synonym": "CEA cell adhesion molecule 5"
+                            }
+                        ]
+                    },
+                    "biomarker": "decreased CEACAM5 level",
+                    "assessed_biomarker_entity_id": "P06731-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "11953875",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/11953875"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6746-2",
+            "biomarker_canonical_id": "AN6746",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Mucin-16",
+                        "synonyms": [
+                            {
+                                "synonym": "Ovarian cancer-related tumor marker CA125"
+                            },
+                            {
+                                "synonym": "CA-125"
+                            },
+                            {
+                                "synonym": "Ovarian carcinoma antigen CA125"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased CA125 levels",
+                    "assessed_biomarker_entity_id": "Q8WXI7-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "24674678",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/24674678"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6324-1",
+            "biomarker_canonical_id": "AN6324",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Mucin-1",
+                        "synonyms": [
+                            {
+                                "synonym": "Polymorphic epithelial mucin"
+                            },
+                            {
+                                "synonym": "PEM"
+                            },
+                            {
+                                "synonym": "Krebs von den Lungen-6"
+                            },
+                            {
+                                "synonym": "KL-6"
+                            },
+                            {
+                                "synonym": "Tumor-associated epithelial membrane antigen"
+                            },
+                            {
+                                "synonym": "EMA"
+                            },
+                            {
+                                "synonym": "Peanut-reactive urinary mucin"
+                            },
+                            {
+                                "synonym": "PUM"
+                            },
+                            {
+                                "synonym": "Cancer antigen 15-3"
+                            },
+                            {
+                                "synonym": "CA 15-3"
+                            },
+                            {
+                                "synonym": "Tumor-associated mucin"
+                            },
+                            {
+                                "synonym": "MUC1-CT"
+                            },
+                            {
+                                "synonym": "Breast carcinoma-associated antigen DF3"
+                            },
+                            {
+                                "synonym": "PEMT"
+                            },
+                            {
+                                "synonym": "Episialin"
+                            },
+                            {
+                                "synonym": "Carcinoma-associated mucin"
+                            },
+                            {
+                                "synonym": "H23AG"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased MUC1 level",
+                    "assessed_biomarker_entity_id": "P15941-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "24674678",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/24674678"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6309-3",
+            "biomarker_canonical_id": "AN6309",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Tumor necrosis factor",
+                        "synonyms": [
+                            {
+                                "synonym": "N-terminal fragment"
+                            },
+                            {
+                                "synonym": "NTF"
+                            },
+                            {
+                                "synonym": "Tumor necrosis factor ligand superfamily member 2"
+                            },
+                            {
+                                "synonym": "TNF-a"
+                            },
+                            {
+                                "synonym": "Cachectin"
+                            },
+                            {
+                                "synonym": "TNF-alpha"
+                            }
+                        ]
+                    },
+                    "biomarker": "Increased TNF-\u03b1 level",
+                    "assessed_biomarker_entity_id": "P01375-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "28791816",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/28791816"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6278-4",
+            "biomarker_canonical_id": "AN6278",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Interleukin-6",
+                        "synonyms": [
+                            {
+                                "synonym": "Interferon beta-2"
+                            },
+                            {
+                                "synonym": "IFN-beta-2"
+                            },
+                            {
+                                "synonym": "CTL differentiation factor"
+                            },
+                            {
+                                "synonym": "CDF"
+                            },
+                            {
+                                "synonym": "B-cell stimulatory factor 2"
+                            },
+                            {
+                                "synonym": "BSF-2"
+                            },
+                            {
+                                "synonym": "Hybridoma growth factor"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased IL6 level",
+                    "assessed_biomarker_entity_id": "P05231-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "28791816",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/28791816"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6372-1",
+            "biomarker_canonical_id": "AN6372",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Interleukin-8",
+                        "synonyms": [
+                            {
+                                "synonym": "Monocyte-derived neutrophil-activating peptide"
+                            },
+                            {
+                                "synonym": "MONAP"
+                            },
+                            {
+                                "synonym": "Lymphocyte-derived neutrophil-activating factor"
+                            },
+                            {
+                                "synonym": "LYNAP"
+                            },
+                            {
+                                "synonym": "Neutrophil-activating factor"
+                            },
+                            {
+                                "synonym": "NAF"
+                            },
+                            {
+                                "synonym": "Granulocyte chemotactic protein 1"
+                            },
+                            {
+                                "synonym": "GCP-1"
+                            },
+                            {
+                                "synonym": "Neutrophil-activating protein 1"
+                            },
+                            {
+                                "synonym": "NAP-1"
+                            },
+                            {
+                                "synonym": "Monocyte-derived neutrophil chemotactic factor"
+                            },
+                            {
+                                "synonym": "MDNCF"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein III"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein VI"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form I"
+                            },
+                            {
+                                "synonym": "Protein 3-10C"
+                            },
+                            {
+                                "synonym": "IL-8(1-77)"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form II"
+                            },
+                            {
+                                "synonym": "Chemokine (C-X-C motif) ligand 8"
+                            },
+                            {
+                                "synonym": "MDNCF-c"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form VI"
+                            },
+                            {
+                                "synonym": "(Ser-IL-8)72"
+                            },
+                            {
+                                "synonym": "MDNCF-b"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein V"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form IV"
+                            },
+                            {
+                                "synonym": "Emoctakin"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein I"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form V"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein IV"
+                            },
+                            {
+                                "synonym": "C-X-C motif chemokine 8"
+                            },
+                            {
+                                "synonym": "IL8/NAP1 form III"
+                            },
+                            {
+                                "synonym": "(Ala-IL-8)77"
+                            },
+                            {
+                                "synonym": "T-cell chemotactic factor"
+                            },
+                            {
+                                "synonym": "GCP/IL-8 protein II"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased IL8 level",
+                    "assessed_biomarker_entity_id": "P10145-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "28791816",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/28791816"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6383-1",
+            "biomarker_canonical_id": "AN6383",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Glutathione hydrolase 1 proenzyme",
+                        "synonyms": [
+                            {
+                                "synonym": "Gamma-glutamyltranspeptidase 1"
+                            },
+                            {
+                                "synonym": "GGT 1"
+                            },
+                            {
+                                "synonym": "2.3.2.2"
+                            },
+                            {
+                                "synonym": "Leukotriene-C4 hydrolase"
+                            },
+                            {
+                                "synonym": "3.4.19.14"
+                            },
+                            {
+                                "synonym": "Gamma-glutamyltransferase 1"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased GGT level",
+                    "assessed_biomarker_entity_id": "P19440-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "25043373",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/25043373"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6384-1",
+            "biomarker_canonical_id": "AN6384",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Alanine aminotransferase 1",
+                        "synonyms": [
+                            {
+                                "synonym": "Glutamate pyruvate transaminase 1"
+                            },
+                            {
+                                "synonym": "GPT 1"
+                            },
+                            {
+                                "synonym": "Glutamic--alanine transaminase 1"
+                            },
+                            {
+                                "synonym": "Glutamic--pyruvic transaminase 1"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased ALT level",
+                    "assessed_biomarker_entity_id": "P24298-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "25043373",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/25043373"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6402-1",
+            "biomarker_canonical_id": "AN6402",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Macrophage colony-stimulating factor 1",
+                        "synonyms": [
+                            {
+                                "synonym": "Lanimostim"
+                            },
+                            {
+                                "synonym": "Proteoglycan macrophage colony-stimulating factor"
+                            },
+                            {
+                                "synonym": "PG-M-CSF"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased CSF1 level",
+                    "assessed_biomarker_entity_id": "P09603-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "23688065",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/23688065"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6404-1",
+            "biomarker_canonical_id": "AN6404",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Kit ligand",
+                        "synonyms": [
+                            {
+                                "synonym": "Mast cell growth factor"
+                            },
+                            {
+                                "synonym": "MGF"
+                            },
+                            {
+                                "synonym": "Stem cell factor"
+                            },
+                            {
+                                "synonym": "SCF"
+                            },
+                            {
+                                "synonym": "c-Kit ligand"
+                            }
+                        ]
+                    },
+                    "biomarker": "increase KITLG level",
+                    "assessed_biomarker_entity_id": "P21583-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "31254605",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/31254605"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6418-2",
+            "biomarker_canonical_id": "AN6418",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Vascular endothelial growth factor D",
+                        "synonyms": [
+                            {
+                                "synonym": "c-Fos-induced growth factor"
+                            },
+                            {
+                                "synonym": "FIGF"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased VEGF-D level",
+                    "assessed_biomarker_entity_id": "O43915-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "12576440",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/12576440"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6469-2",
+            "biomarker_canonical_id": "AN6469",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Membrane primary amine oxidase",
+                        "synonyms": [
+                            {
+                                "synonym": "Semicarbazide-sensitive amine oxidase"
+                            },
+                            {
+                                "synonym": "SSAO"
+                            },
+                            {
+                                "synonym": "Vascular adhesion protein 1"
+                            },
+                            {
+                                "synonym": "VAP-1"
+                            },
+                            {
+                                "synonym": "Copper amine oxidase"
+                            },
+                            {
+                                "synonym": "HPAO"
+                            },
+                            {
+                                "synonym": "Amine oxidase copper-containing 3"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased AOC3 level",
+                    "assessed_biomarker_entity_id": "Q16853-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30160019",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30160019"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6480-1",
+            "biomarker_canonical_id": "AN6480",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Endothelin receptor type B",
+                        "synonyms": [
+                            {
+                                "synonym": "Endothelin receptor non-selective type"
+                            }
+                        ]
+                    },
+                    "biomarker": "decreased EDNRB level",
+                    "assessed_biomarker_entity_id": "P24530-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "32934717",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/32934717"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6482-1",
+            "biomarker_canonical_id": "AN6482",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Transcription factor GATA-4",
+                        "synonyms": [
+                            {
+                                "synonym": "GATA-binding factor 4"
+                            }
+                        ]
+                    },
+                    "biomarker": "decreased GATA-4 level",
+                    "assessed_biomarker_entity_id": "P43694-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30187949",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30187949"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6495-1",
+            "biomarker_canonical_id": "AN6495",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Histone H2AX",
+                        "synonyms": [
+                            {
+                                "synonym": "Histone H2A.X"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased H2AX level",
+                    "assessed_biomarker_entity_id": "P16104-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "31552812",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/31552812"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6521-1",
+            "biomarker_canonical_id": "AN6521",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "72 kDa type IV collagenase",
+                        "synonyms": [
+                            {
+                                "synonym": "Matrix metalloproteinase-2"
+                            },
+                            {
+                                "synonym": "MMP-2"
+                            },
+                            {
+                                "synonym": "TBE-1"
+                            },
+                            {
+                                "synonym": "Gelatinase A"
+                            },
+                            {
+                                "synonym": "72 kDa gelatinase"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased MMP2 level",
+                    "assessed_biomarker_entity_id": "P08253-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "32176626",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/32176626"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6522-1",
+            "biomarker_canonical_id": "AN6522",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Rho GDP-dissociation inhibitor 2",
+                        "synonyms": [
+                            {
+                                "synonym": "Rho-GDI beta"
+                            },
+                            {
+                                "synonym": "Ly-GDI"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased ARHGDIB level",
+                    "assessed_biomarker_entity_id": "P52566-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "32176626",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/32176626"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6541-1",
+            "biomarker_canonical_id": "AN6541",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Kinesin-like protein KIF20A",
+                        "synonyms": [
+                            {
+                                "synonym": "Mitotic kinesin-like protein 2"
+                            },
+                            {
+                                "synonym": "MKlp2"
+                            },
+                            {
+                                "synonym": "Rabkinesin-6"
+                            },
+                            {
+                                "synonym": "GG10_2"
+                            },
+                            {
+                                "synonym": "Rab6-interacting kinesin-like protein"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased KIF20A level",
+                    "assessed_biomarker_entity_id": "O95235-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "32467984",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/32467984"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6774-1",
+            "biomarker_canonical_id": "AN6774",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Tissue factor",
+                        "synonyms": [
+                            {
+                                "synonym": "Coagulation factor III"
+                            },
+                            {
+                                "synonym": "Thromboplastin"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased TF level",
+                    "assessed_biomarker_entity_id": "P13726-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "19623180",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/19623180"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6775-1",
+            "biomarker_canonical_id": "AN6775",
+            "best_biomarker_role": [
+                {
+                    "role": "diagnostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Hypoxia-inducible factor 1-alpha inhibitor",
+                        "synonyms": [
+                            {
+                                "synonym": "Factor inhibiting HIF-1"
+                            },
+                            {
+                                "synonym": "FIH-1"
+                            },
+                            {
+                                "synonym": "Hypoxia-inducible factor asparagine hydroxylase"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased HIF-1alpha level",
+                    "assessed_biomarker_entity_id": "Q9NWT6-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "19623180",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/19623180"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6776-1",
+            "biomarker_canonical_id": "AN6776",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Interferon gamma",
+                        "synonyms": [
+                            {
+                                "synonym": "Immune interferon"
+                            }
+                        ]
+                    },
+                    "biomarker": "Increased IFN-\u03b3 level",
+                    "assessed_biomarker_entity_id": "P01579-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "31428522",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/31428522"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6576-1",
+            "biomarker_canonical_id": "AN6576",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Zinc-alpha-2-glycoprotein",
+                        "synonyms": []
+                    },
+                    "biomarker": "increased Th17 level",
+                    "assessed_biomarker_entity_id": "P25311-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "31428522",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/31428522"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6578-1",
+            "biomarker_canonical_id": "AN6578",
+            "best_biomarker_role": [
+                {
+                    "role": "predictive"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Proliferation marker protein Ki-67",
+                        "synonyms": [
+                            {
+                                "synonym": "Antigen identified by monoclonal antibody Ki-67"
+                            },
+                            {
+                                "synonym": "Antigen KI-67"
+                            },
+                            {
+                                "synonym": "Antigen Ki67"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased MKI67 level",
+                    "assessed_biomarker_entity_id": "P46013-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "23645542",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/23645542"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6610-1",
+            "biomarker_canonical_id": "AN6610",
+            "best_biomarker_role": [
+                {
+                    "role": "risk"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Fatty acid-binding protein, adipocyte",
+                        "synonyms": [
+                            {
+                                "synonym": "Adipocyte lipid-binding protein"
+                            },
+                            {
+                                "synonym": "ALBP"
+                            },
+                            {
+                                "synonym": "Adipocyte-type fatty acid-binding protein"
+                            },
+                            {
+                                "synonym": "A-FABP"
+                            },
+                            {
+                                "synonym": "AFABP"
+                            },
+                            {
+                                "synonym": "Fatty acid-binding protein 4"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased FABP4 level",
+                    "assessed_biomarker_entity_id": "P15090-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30100196",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30100196"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6622-1",
+            "biomarker_canonical_id": "AN6622",
+            "best_biomarker_role": [
+                {
+                    "role": "risk"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Tumor necrosis factor receptor superfamily member 11B",
+                        "synonyms": [
+                            {
+                                "synonym": "Osteoprotegerin"
+                            },
+                            {
+                                "synonym": "Osteoclastogenesis inhibitory factor"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased TNFRSF11B level",
+                    "assessed_biomarker_entity_id": "O00300-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30348163",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30348163"
+                }
+            ]
+        },
+        {
+            "biomarker_id": "AN6726-1",
+            "biomarker_canonical_id": "AN6726",
+            "best_biomarker_role": [
+                {
+                    "role": "prognostic"
+                }
+            ],
+            "biomarker_component": [
+                {
+                    "assessed_biomarker_entity": {
+                        "recommended_name": "Epidermal growth factor receptor",
+                        "synonyms": [
+                            {
+                                "synonym": "Receptor tyrosine-protein kinase erbB-1"
+                            },
+                            {
+                                "synonym": "Proto-oncogene c-ErbB-1"
+                            }
+                        ]
+                    },
+                    "biomarker": "increased EGFR level",
+                    "assessed_biomarker_entity_id": "P00533-1",
+                    "assessed_entity_type": "protein"
+                }
+            ],
+            "evidence": [
+                {
+                    "id": "30431376",
+                    "database": "PubMed",
+                    "url": "https://glygen.org/publication/PubMed/30431376"
+                }
+            ]
+        }
+    ],
+    "association_flag": "1110",
+    "record_id": "doid.1612"
+}

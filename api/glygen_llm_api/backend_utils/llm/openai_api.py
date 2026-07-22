@@ -18,7 +18,9 @@ class OpenAILLM(LLM):
         max_retries: int = 2
     ):
         super().__init__(api_key_name, type, max_tokens, max_retries)
-        self.instance = openai.OpenAI(api_key=self._api_key)
+        # self.instance = openai.OpenAI( base_url="https://data.tst.glygen.org/api/", websocket_base_url="https://data.tst.glygen.org/api/", api_key=self._api_key)
+        self.instance = openai.OpenAI( base_url="http://127.0.0.1:3000/api/", websocket_base_url="http://127.0.0.1:3000/api/", api_key=self._api_key)
+        # self.instance = openai.OpenAI( base_url="http://127.0.0.1:8080/api/", websocket_base_url="http://127.0.0.1:8080/api/", api_key=self._api_key)
         super().__init__(api_key_name, type, max_tokens, max_retries)
 
     def advanced_search(self, query: str) -> Optional[Dict]:
@@ -34,7 +36,9 @@ class OpenAILLM(LLM):
         for i in range(self._max_retries):
             try:
                 response = self.instance.chat.completions.create(
-                    model="gpt-4o-mini",
+                    # model="gpt-4o-mini",
+                    model="llama3.1:latest",
+                    # model="meta-llama-3.1-8b-instruct",
                     messages=messages,
                     store=False, # Set to False to prevent storage
                     max_tokens=self._max_tokens,

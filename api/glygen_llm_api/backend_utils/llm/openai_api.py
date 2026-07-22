@@ -18,8 +18,8 @@ class OpenAILLM(LLM):
         max_retries: int = 2
     ):
         super().__init__(api_key_name, type, max_tokens, max_retries)
-        # self.instance = openai.OpenAI( base_url="https://data.tst.glygen.org/api", api_key=self._api_key)
-        self.instance = openai.OpenAI( base_url="http://localhost:11434/v1", api_key=self._api_key)
+        self.instance = openai.OpenAI( base_url="https://data.tst.glygen.org/api", api_key=self._api_key)
+        # self.instance = openai.OpenAI( base_url="http://localhost:11434/v1", api_key=self._api_key)
         # self.instance = openai.OpenAI( base_url="http://localhost:1234/v1", api_key=self._api_key)
         super().__init__(api_key_name, type, max_tokens, max_retries)
 

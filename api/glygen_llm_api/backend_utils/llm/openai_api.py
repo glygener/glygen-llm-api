@@ -18,7 +18,7 @@ class OpenAILLM(LLM):
         max_retries: int = 2
     ):
         super().__init__(api_key_name, type, max_tokens, max_retries)
-        self.instance = openai.OpenAI( base_url="https://data.tst.glygen.org/api/", websocket_base_url="https://data.tst.glygen.org/api/", api_key=self._api_key)
+        self.instance = openai.OpenAI( base_url="https://data.tst.glygen.org/api", api_key=self._api_key)
         # self.instance = openai.OpenAI( base_url="http://127.0.0.1:3000/api/", websocket_base_url="http://127.0.0.1:3000/api/", api_key=self._api_key)
         # self.instance = openai.OpenAI( base_url="http://127.0.0.1:8080/api/", websocket_base_url="http://127.0.0.1:8080/api/", api_key=self._api_key)
         super().__init__(api_key_name, type, max_tokens, max_retries)
@@ -42,6 +42,7 @@ class OpenAILLM(LLM):
                     messages=messages,
                     store=False, # Set to False to prevent storage
                     max_tokens=self._max_tokens,
+                    stream=False
                 )
 
                 response_text = response.choices[0].message.content

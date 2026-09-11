@@ -18,9 +18,7 @@ class OpenAILLM(LLM):
         max_retries: int = 2
     ):
         super().__init__(api_key_name, type, max_tokens, max_retries)
-        self.instance = openai.OpenAI( base_url="http://localhost:3000/api", api_key=self._api_key)
-        # self.instance = openai.OpenAI( base_url="http://localhost:11434/v1", api_key=self._api_key)
-        # self.instance = openai.OpenAI( base_url="http://localhost:1234/v1", api_key=self._api_key)
+        self.instance = openai.OpenAI(api_key=self._api_key)
         super().__init__(api_key_name, type, max_tokens, max_retries)
 
     def advanced_search(self, query: str) -> Optional[Dict]:
@@ -36,14 +34,10 @@ class OpenAILLM(LLM):
         for i in range(self._max_retries):
             try:
                 response = self.instance.chat.completions.create(
-                    # model="gpt-4o-mini",
-                    model="llama3.1:latest",
-                    # model="meta-llama-3.1-8b-instruct",
+                    model="gpt-4o-mini",
                     messages=messages,
                     store=False, # Set to False to prevent storage
                     max_tokens=self._max_tokens,
-                    timeout=500.0,
-                    stream=False
                 )
 
                 response_text = response.choices[0].message.content

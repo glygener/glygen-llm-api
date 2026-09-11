@@ -14,4 +14,4 @@ RUN pip install glygen_ai_api-1.0-py3-none-any.whl
 
 COPY . .
 
-ENTRYPOINT FLASK_APP=glygen_ai_api gunicorn -b :80 'glygen_llm_api:create_app()' --timeout 120 --graceful-timeout 60
+ENTRYPOINT FLASK_APP=glygen_ai_api gunicorn -b 0.0.0.0:80 'glygen_llm_api:create_app()' --timeout 120 --graceful-timeout 60
